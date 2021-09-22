@@ -1,0 +1,15 @@
+#input1{
+    background-color: blue;
+    color: azure;
+   border: none;
+}
+.clsBtn {
+    border: none;
+    background-color: white;
+    width: 300px;
+}
+.clsLbl{
+    font-family: Helvetica;
+    font-size: 8pt;
+}
+

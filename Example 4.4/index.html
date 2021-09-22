@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form elements</title>
+</head>
+<body>
+<h2 id="simpleButton">
+    Simple Button
+</h2>
+
+<form id="form">
+    <input type="button" value="Click This Button">
+</form>
+<hr>
+<h2>
+    Textbox
+</h2>
+<form>
+    <label for="fname">First name:</label><br>
+    <input type="text" id="fname" name="fname"><br>
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" name="lname">
+</form>
+<hr>
+
+
+
+<h2>Password box</h2>
+
+<form>
+    <label for="username">Username:</label><br>
+    <input type="text" id="username" name="username"><br>
+    <label for="pwd">Password:</label><br>
+    <input type="password" id="pwd" name="pwd">
+</form>
+<hr>
+<h2>
+    Submit Button
+</h2>
+
+<form action="/action_page.php">
+    <label for="fname">First name:</label><br>
+    <input type="text" id="fname" name="fname" value="Username"><br>
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" name="lname" value="Lastname"><br>
+    <label for="pwd_2">Password:</label><br>
+    <input type="password" id="pwd_2" name="pwd"><br><br>
+    <input type="submit" value="Submit">
+    <input type="reset" value="Reset">
+</form>
+<hr>
+
+<h2>Select Option </h2>
+<label for="cars">Choose a car:</label>
+<select id="cars" name="cars">
+    <option value="volvo" selected>Volvo</option>
+    <option value="saab">Saab</option>
+    <option value="fiat">Fiat</option>
+    <option value="audi">Audi</option>
+</select>
+<hr>
+<h2>Multiple Selections</h2>
+<label for="cars">Choose a car:</label>
+<select id="cars" name="cars" size="4" multiple>
+    <option value="volvo">Volvo</option>
+    <option value="saab">Saab</option>
+    <option value="fiat">Fiat</option>
+    <option value="audi">Audi</option>
+</select>
+<hr>
+<h2>
+    Radio box
+</h2>
+<form>
+    <input type="radio" id="male" name="gender" value="male">
+    <label for="male">Male</label><br>
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="female">Female</label><br>
+    <input type="radio" id="other" name="gender" value="other">
+    <label for="other">Other</label>
+</form>
+<hr>
+<h2>
+    CheckBox
+</h2>
+
+<form>
+    <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+    <label for="vehicle1"> I have a bike</label><br>
+    <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+    <label for="vehicle2"> I have a car</label><br>
+    <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+    <label for="vehicle3"> I have a boat</label>
+</form>
+<hr>
+<h2>
+    Color Input
+</h2>
+<form>
+    <input type="color" id="color1" name="color1" value="#f6b73c">
+    <label for="color1">Select a color</label><br>
+    <input type="color" id="color2" name="color2" value="#e66465">
+    <label for="color2">Select a second color</label><br>
+    <input type="color" id="color3" name="color3" value="#2200ff">
+    <label for="color3">Select a third color</label>
+
+</form>
+<hr>
+<h2>
+    Date Input
+</h2>
+<form>
+    <label for="datemax">Enter a date before 2000-01-01:</label>
+    <input type="date" id="datemax" name="datemax" max="1999-12-30"><br><br>
+    <label for="datemin">Enter a date after 2020-01-01:</label>
+    <input type="date" id="datemin" name="datemin" min="2020-01-02">
+</form>
+<hr>
+<h2>
+    Email input
+</h2>
+<form>
+    <label for="email">Email address:</label>
+    <input type="email" id="email" name="email">
+</form>
+<hr>
+<h2>Range Field</h2>
+
+<p>The input type "range" is a slider control.<p>
+
+<form action="/server_side.php" method="get">
+    <label for="vol">Volume (between 0 and 50):</label>
+    <input type="range" id="vol" name="vol" min="0" max="50">
+    <input type="submit" value="Submit">
+</form>
+<hr>
+
+<h2>
+    Text Area
+</h2>
+<textarea name="message" rows="10" cols="30">
+This is a long text with 10 rows and 30 cols
+</textarea>
+<hr>
+<h2>
+
+</h2>
+
+</body>
+</html>
