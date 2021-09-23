@@ -1,14 +1,51 @@
 
+body{
+    background-color: rgb(240, 235, 248);
+}
 
-
+/* .body{
+    background-color: rgb(184, 184, 170);
+} */
 .formsss {
 
+    margin:auto;
+    width: 40%;
     background-color:white;
-    margin-left: 40%;
+    padding-bottom: 2%;
+    /* padding-top: 2px; */
+    border-radius: 10px;
+    /* margin-left: 40%; */
     
 }
 
+.form1{
+    margin:auto;
+    width: 40%;
+    background-color:white;
+    border-radius: 10px;
+    
+}
+
+.form2{
+    margin:auto;
+    width: 40%;
+    background-color:white;
+    border-radius: 10px;
+    
+}
+
+.noOutline:focus{
+    outline: none;
+}
+
+input {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color:white;
+  }
 #button{
-    margin-right: 127px;
+    margin-right: 210px;
 }
 
