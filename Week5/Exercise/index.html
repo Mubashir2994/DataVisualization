@@ -41,6 +41,7 @@ id="container" style="width: 100%">  </div>
 //     // console.log(x)
 // });
 
+// Step2: Creating a svg element and styling it by giving a background color
 let svg = d3.selectAll('#container')
         .append('svg')
         .attr('width','100%')
@@ -51,7 +52,7 @@ let svg = d3.selectAll('#container')
     let width = 500 - 2 * margins;
     let height = 400 - 2 * margins;
 
-
+// Step 3: Loading the data from csv file
 const loadData = d3.csv("./data_sample.csv").then(d => {
         let data = d.map(elem => {
             console.log(d)
