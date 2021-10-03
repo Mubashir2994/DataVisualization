@@ -73,25 +73,26 @@ let x = d3.scaleTime()
     .domain(d3.extent(data, function(d) { return d.date; }))
     .range([margins, width]);
 let y1 = d3.scaleLinear()
-    .domain([0, d3.max(data, function(d) { return d.yearly_storage; })])
+    .domain([0, 800])//d3.max(data, function(d) { return d.yearly_storage; })])
     .range([height, margins]);
 
-// let y2 = d3.scaleLinear()
-//     .domain([0, d3.max(data, function(d) { return d.estimated_cost; })])
-//     .range([height, margins]);
+let y2 = d3.scaleLinear()
+    .domain([0, 800])//d3.max(data, function(d) { return d.estimated_cost; })])
+    .range([height, margins]);
+    
 
-// let y3 = d3.scaleLinear()
-//     .domain([0, d3.max(data, function(d) { return d.raw_material; })])
-//     .range([height, margins]);
+let y3 = d3.scaleLinear()
+    .domain([0, 800]) //d3.max(data, function(d) { return d.raw_material; })])
+    .range([height, margins]);
 
-//step 5: define line function for [date] and [close] variable
+//step 5: define line function for [date] and other variables
 let FirstLine= d3.line()
     .x(function(d) { return x(d.date); })
     .y(function(d) { return y1(d.yearly_storage); });
 
 let SecondLine = d3.line()
     .x(function(d) { return x(d.date); })
-    .y(function(d) { return y2(d.estimated_cost); });
+    .y(function(d) { return y2(d.workmanship); });
 
 let ThirdLine = d3.line()
     .x(function(d) { return x(d.date); })
@@ -109,26 +110,64 @@ svg.append("path")
     .attr("stroke-width","2px")
 
 
-// svg.append("path")
-//     .data([data])
-//     .attr("class", "line")
-//     .attr("d", SecondLine) // line function automatically makes d attribute
-//     .attr("stroke-linejoin",'round')
-//     .attr("stroke-linecap",'round')
-//     .attr("fill",'none')
-//     .attr("stroke","red")
-//     .attr("stroke-width","3px")
+svg.append("path")
+    .data([data])
+    .attr("class", "line")
+    .attr("d", SecondLine) // line function automatically makes d attribute
+    .attr("stroke-linejoin",'round')
+    .attr("stroke-linecap",'round')
+    .attr("fill",'none')
+    .attr("stroke","red")
+    .attr("stroke-width","3px")
 
 
-// svg.append("path")
-//     .data([data])
-//     .attr("class", "line")
-//     .attr("d", ThirdLine) // line function automatically makes d attribute
-//     .attr("stroke-linejoin",'round')
-//     .attr("stroke-linecap",'round')
-//     .attr("fill",'none')
-//     .attr("stroke","green")
-//     .attr("stroke-width","5px")
+svg.append("path")
+    .data([data])
+    .attr("class", "line")
+    .attr("d", ThirdLine) // line function automatically makes d attribute
+    .attr("stroke-linejoin",'round')
+    .attr("stroke-linecap",'round')
+    .attr("fill",'none')
+    .attr("stroke","green")
+    .attr("stroke-width","4px")
+
+
+// Drawing and styling the Legends    
+svg.append("circle")
+.attr("cx",500)
+.attr("cy",50)
+.attr("r", 6)
+.style("fill", "blue")
+svg.append("text")
+.attr("x", 520).
+attr("y", 50).
+text("Yearly Storage")
+.style("font-size", "15px")
+.attr("alignment-baseline","middle")
+
+svg.append("circle")
+.attr("cx",500)
+.attr("cy",70)
+.attr("r", 6)
+.style("fill", "red")
+svg.append("text")
+.attr("x", 520).
+attr("y", 70).
+text("Workmanship")
+.style("font-size", "15px")
+.attr("alignment-baseline","middle")
+
+svg.append("circle")
+.attr("cx",500)
+.attr("cy",90)
+.attr("r", 6)
+.style("fill", "green")
+svg.append("text")
+.attr("x", 520).
+attr("y", 90).
+text("Raw Material")
+.style("font-size", "15px")
+.attr("alignment-baseline","middle")
 
 
 svg.append("g")
