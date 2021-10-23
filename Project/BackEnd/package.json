@@ -1,0 +1,14 @@
+{
+  "name": "dv_backend",
+  "version": "1.0.0",
+  "description": "DV Project Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mubashir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
