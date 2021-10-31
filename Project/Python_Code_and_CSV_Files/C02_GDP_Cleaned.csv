@@ -1,0 +1,1656 @@
+,Region,CountryName,Year,Series,Value
+0,2,Africa,1985,GDP in current prices (millions of US dollars),551052.1297
+1,2,Africa,1995,GDP in current prices (millions of US dollars),584724.3325
+2,2,Africa,2005,GDP in current prices (millions of US dollars),1127603.67
+3,2,Africa,2010,GDP in current prices (millions of US dollars),1968455.453
+4,2,Africa,2015,GDP in current prices (millions of US dollars),2306278.761
+5,2,Africa,2017,GDP in current prices (millions of US dollars),2234232.975
+6,2,Africa,2018,GDP in current prices (millions of US dollars),2365243.324
+7,15,Northern Africa,1985,GDP in current prices (millions of US dollars),142506.2163
+8,15,Northern Africa,1995,GDP in current prices (millions of US dollars),207392.1348
+9,15,Northern Africa,2005,GDP in current prices (millions of US dollars),373105.5942
+10,15,Northern Africa,2010,GDP in current prices (millions of US dollars),648726.6228
+11,15,Northern Africa,2015,GDP in current prices (millions of US dollars),729675.1671
+12,15,Northern Africa,2017,GDP in current prices (millions of US dollars),661194.4199
+13,15,Northern Africa,2018,GDP in current prices (millions of US dollars),666216.4768
+14,202,Sub-Saharan Africa,1985,GDP in current prices (millions of US dollars),408545.9134
+15,202,Sub-Saharan Africa,1995,GDP in current prices (millions of US dollars),377332.1977
+16,202,Sub-Saharan Africa,2005,GDP in current prices (millions of US dollars),754498.0757
+17,202,Sub-Saharan Africa,2010,GDP in current prices (millions of US dollars),1319728.83
+18,202,Sub-Saharan Africa,2015,GDP in current prices (millions of US dollars),1576603.594
+19,202,Sub-Saharan Africa,2017,GDP in current prices (millions of US dollars),1573038.556
+20,202,Sub-Saharan Africa,2018,GDP in current prices (millions of US dollars),1699026.848
+21,14,Eastern Africa,1985,GDP in current prices (millions of US dollars),65429.6753
+22,14,Eastern Africa,1995,GDP in current prices (millions of US dollars),69248.4075
+23,14,Eastern Africa,2005,GDP in current prices (millions of US dollars),112226.9976
+24,14,Eastern Africa,2010,GDP in current prices (millions of US dollars),217859.6916
+25,14,Eastern Africa,2015,GDP in current prices (millions of US dollars),321978.8024
+26,14,Eastern Africa,2017,GDP in current prices (millions of US dollars),364120.6458
+27,14,Eastern Africa,2018,GDP in current prices (millions of US dollars),393668.8739
+28,17,Middle Africa,1985,GDP in current prices (millions of US dollars),35266.8513
+29,17,Middle Africa,1995,GDP in current prices (millions of US dollars),36080.9147
+30,17,Middle Africa,2005,GDP in current prices (millions of US dollars),99547.5604
+31,17,Middle Africa,2010,GDP in current prices (millions of US dollars),189046.0524
+32,17,Middle Africa,2015,GDP in current prices (millions of US dollars),237286.6618
+33,17,Middle Africa,2017,GDP in current prices (millions of US dollars),245958.5667
+34,17,Middle Africa,2018,GDP in current prices (millions of US dollars),250275.8253
+35,18,Southern Africa,1985,GDP in current prices (millions of US dollars),62927.1027
+36,18,Southern Africa,1995,GDP in current prices (millions of US dollars),166991.0837
+37,18,Southern Africa,2005,GDP in current prices (millions of US dollars),279561.9851
+38,18,Southern Africa,2010,GDP in current prices (millions of US dollars),406241.7249
+39,18,Southern Africa,2015,GDP in current prices (millions of US dollars),350024.7747
+40,18,Southern Africa,2017,GDP in current prices (millions of US dollars),387003.3296
+41,18,Southern Africa,2018,GDP in current prices (millions of US dollars),408568.9969
+42,11,Western Africa,1985,GDP in current prices (millions of US dollars),244922.2841
+43,11,Western Africa,1995,GDP in current prices (millions of US dollars),105011.7918
+44,11,Western Africa,2005,GDP in current prices (millions of US dollars),263161.5326
+45,11,Western Africa,2010,GDP in current prices (millions of US dollars),506581.3611
+46,11,Western Africa,2015,GDP in current prices (millions of US dollars),667313.3549
+47,11,Western Africa,2017,GDP in current prices (millions of US dollars),575956.0134
+48,11,Western Africa,2018,GDP in current prices (millions of US dollars),646513.1514
+49,19,Americas,1985,GDP in current prices (millions of US dollars),5491293.021
+50,19,Americas,1995,GDP in current prices (millions of US dollars),10217194.18
+51,19,Americas,2005,GDP in current prices (millions of US dollars),17076572.88
+52,19,Americas,2010,GDP in current prices (millions of US dollars),21963119.06
+53,19,Americas,2015,GDP in current prices (millions of US dollars),25283841.8
+54,19,Americas,2017,GDP in current prices (millions of US dollars),26950282.38
+55,19,Americas,2018,GDP in current prices (millions of US dollars),27867704.46
+56,21,Northern America,1985,GDP in current prices (millions of US dollars),4707043.784
+57,21,Northern America,1995,GDP in current prices (millions of US dollars),8249550.242
+58,21,Northern America,2005,GDP in current prices (millions of US dollars),14216498.21
+59,21,Northern America,2010,GDP in current prices (millions of US dollars),16617673.9
+60,21,Northern America,2015,GDP in current prices (millions of US dollars),19789296.97
+61,21,Northern America,2017,GDP in current prices (millions of US dollars),21178707.09
+62,21,Northern America,2018,GDP in current prices (millions of US dollars),22302188.09
+63,419,Latin America & the Caribbean,1985,GDP in current prices (millions of US dollars),784249.2367
+64,419,Latin America & the Caribbean,1995,GDP in current prices (millions of US dollars),1967643.942
+65,419,Latin America & the Caribbean,2005,GDP in current prices (millions of US dollars),2860074.673
+66,419,Latin America & the Caribbean,2010,GDP in current prices (millions of US dollars),5345445.152
+67,419,Latin America & the Caribbean,2015,GDP in current prices (millions of US dollars),5494544.822
+68,419,Latin America & the Caribbean,2017,GDP in current prices (millions of US dollars),5771575.288
+69,419,Latin America & the Caribbean,2018,GDP in current prices (millions of US dollars),5565516.364
+70,29,Caribbean,1985,GDP in current prices (millions of US dollars),69866.0713
+71,29,Caribbean,1995,GDP in current prices (millions of US dollars),120339.1627
+72,29,Caribbean,2005,GDP in current prices (millions of US dollars),222633.4507
+73,29,Caribbean,2010,GDP in current prices (millions of US dollars),290517.9359
+74,29,Caribbean,2015,GDP in current prices (millions of US dollars),344059.0997
+75,29,Caribbean,2017,GDP in current prices (millions of US dollars),361871.5005
+76,29,Caribbean,2018,GDP in current prices (millions of US dollars),371468.4724
+77,13,Central America,1985,GDP in current prices (millions of US dollars),255436.7307
+78,13,Central America,1995,GDP in current prices (millions of US dollars),412217.5588
+79,13,Central America,2005,GDP in current prices (millions of US dollars),972211.6683
+80,13,Central America,2010,GDP in current prices (millions of US dollars),1210270.728
+81,13,Central America,2015,GDP in current prices (millions of US dollars),1402100.776
+82,13,Central America,2017,GDP in current prices (millions of US dollars),1418016.004
+83,13,Central America,2018,GDP in current prices (millions of US dollars),1492058.729
+84,5,South America,1985,GDP in current prices (millions of US dollars),458946.4347
+85,5,South America,1995,GDP in current prices (millions of US dollars),1435087.22
+86,5,South America,2005,GDP in current prices (millions of US dollars),1665229.554
+87,5,South America,2010,GDP in current prices (millions of US dollars),3844656.488
+88,5,South America,2015,GDP in current prices (millions of US dollars),3748384.946
+89,5,South America,2017,GDP in current prices (millions of US dollars),3991687.783
+90,5,South America,2018,GDP in current prices (millions of US dollars),3701989.163
+91,142,Asia,1985,GDP in current prices (millions of US dollars),2895273.058
+92,142,Asia,1995,GDP in current prices (millions of US dollars),9223410.866
+93,142,Asia,2005,GDP in current prices (millions of US dollars),12390608.47
+94,142,Asia,2010,GDP in current prices (millions of US dollars),20957642.94
+95,142,Asia,2015,GDP in current prices (millions of US dollars),26659276.55
+96,142,Asia,2017,GDP in current prices (millions of US dollars),29581855.73
+97,142,Asia,2018,GDP in current prices (millions of US dollars),31839879.55
+98,143,Central Asia,1995,GDP in current prices (millions of US dollars),41638.7899
+99,143,Central Asia,2005,GDP in current prices (millions of US dollars),93162.5703
+100,143,Central Asia,2010,GDP in current prices (millions of US dollars),227976.0944
+101,143,Central Asia,2015,GDP in current prices (millions of US dollars),316820.175
+102,143,Central Asia,2017,GDP in current prices (millions of US dollars),278741.6818
+103,143,Central Asia,2018,GDP in current prices (millions of US dollars),286204.9274
+104,30,Eastern Asia,1985,GDP in current prices (millions of US dollars),1925557.232
+105,30,Eastern Asia,1995,GDP in current prices (millions of US dollars),7191367.638
+106,30,Eastern Asia,2005,GDP in current prices (millions of US dollars),8559950.712
+107,30,Eastern Asia,2010,GDP in current prices (millions of US dollars),13653535.35
+108,30,Eastern Asia,2015,GDP in current prices (millions of US dollars),17788105.95
+109,30,Eastern Asia,2017,GDP in current prices (millions of US dollars),19639200.1
+110,30,Eastern Asia,2018,GDP in current prices (millions of US dollars),21355820.14
+111,35,South-eastern Asia,1985,GDP in current prices (millions of US dollars),243806.2277
+112,35,South-eastern Asia,1995,GDP in current prices (millions of US dollars),703486.7394
+113,35,South-eastern Asia,2005,GDP in current prices (millions of US dollars),958892.6882
+114,35,South-eastern Asia,2010,GDP in current prices (millions of US dollars),1980866.225
+115,35,South-eastern Asia,2015,GDP in current prices (millions of US dollars),2466780.962
+116,35,South-eastern Asia,2017,GDP in current prices (millions of US dollars),2783868.64
+117,35,South-eastern Asia,2018,GDP in current prices (millions of US dollars),2974090.048
+118,34,Southern Asia,1985,GDP in current prices (millions of US dollars),377582.7579
+119,34,Southern Asia,1995,GDP in current prices (millions of US dollars),625198.5267
+120,34,Southern Asia,2005,GDP in current prices (millions of US dollars),1270195.09
+121,34,Southern Asia,2010,GDP in current prices (millions of US dollars),2542992.27
+122,34,Southern Asia,2015,GDP in current prices (millions of US dollars),3129878.542
+123,34,Southern Asia,2017,GDP in current prices (millions of US dollars),3777179.266
+124,34,Southern Asia,2018,GDP in current prices (millions of US dollars),3949687.648
+125,145,Western Asia,1985,GDP in current prices (millions of US dollars),348326.8402
+126,145,Western Asia,1995,GDP in current prices (millions of US dollars),661719.172
+127,145,Western Asia,2005,GDP in current prices (millions of US dollars),1508407.407
+128,145,Western Asia,2010,GDP in current prices (millions of US dollars),2552273.001
+129,145,Western Asia,2015,GDP in current prices (millions of US dollars),2957690.918
+130,145,Western Asia,2017,GDP in current prices (millions of US dollars),3102866.037
+131,145,Western Asia,2018,GDP in current prices (millions of US dollars),3274076.786
+132,150,Europe,1985,GDP in current prices (millions of US dollars),4415160.103
+133,150,Europe,1995,GDP in current prices (millions of US dollars),10629667.9
+134,150,Europe,2005,GDP in current prices (millions of US dollars),16109893.76
+135,150,Europe,2010,GDP in current prices (millions of US dollars),19860114.55
+136,150,Europe,2015,GDP in current prices (millions of US dollars),19160795.72
+137,150,Europe,2017,GDP in current prices (millions of US dollars),20353839.99
+138,150,Europe,2018,GDP in current prices (millions of US dollars),21908724.54
+139,151,Eastern Europe,1985,GDP in current prices (millions of US dollars),1124317.676
+140,151,Eastern Europe,1995,GDP in current prices (millions of US dollars),794157.1807
+141,151,Eastern Europe,2005,GDP in current prices (millions of US dollars),1628297.525
+142,151,Eastern Europe,2010,GDP in current prices (millions of US dollars),2864772.055
+143,151,Eastern Europe,2015,GDP in current prices (millions of US dollars),2627185.65
+144,151,Eastern Europe,2017,GDP in current prices (millions of US dollars),3007953.077
+145,151,Eastern Europe,2018,GDP in current prices (millions of US dollars),3262794.915
+146,154,Northern Europe,1985,GDP in current prices (millions of US dollars),810631.1963
+147,154,Northern Europe,1995,GDP in current prices (millions of US dollars),2171076.364
+148,154,Northern Europe,2005,GDP in current prices (millions of US dollars),3992198.268
+149,154,Northern Europe,2010,GDP in current prices (millions of US dollars),4286874.105
+150,154,Northern Europe,2015,GDP in current prices (millions of US dollars),4755721.795
+151,154,Northern Europe,2017,GDP in current prices (millions of US dollars),4654689.7
+152,154,Northern Europe,2018,GDP in current prices (millions of US dollars),5005288.423
+153,39,Southern Europe,1985,GDP in current prices (millions of US dollars),780801.0783
+154,39,Southern Europe,1995,GDP in current prices (millions of US dollars),2126467.582
+155,39,Southern Europe,2005,GDP in current prices (millions of US dollars),3606698.387
+156,39,Southern Europe,2010,GDP in current prices (millions of US dollars),4302126.629
+157,39,Southern Europe,2015,GDP in current prices (millions of US dollars),3619793.813
+158,39,Southern Europe,2017,GDP in current prices (millions of US dollars),3919151.183
+159,39,Southern Europe,2018,GDP in current prices (millions of US dollars),4209516.021
+160,155,Western Europe,1985,GDP in current prices (millions of US dollars),1699410.152
+161,155,Western Europe,1995,GDP in current prices (millions of US dollars),5537966.773
+162,155,Western Europe,2005,GDP in current prices (millions of US dollars),6882699.581
+163,155,Western Europe,2010,GDP in current prices (millions of US dollars),8406341.757
+164,155,Western Europe,2015,GDP in current prices (millions of US dollars),8158094.459
+165,155,Western Europe,2017,GDP in current prices (millions of US dollars),8772046.035
+166,155,Western Europe,2018,GDP in current prices (millions of US dollars),9431125.179
+167,9,Oceania,1985,GDP in current prices (millions of US dollars),214459.4126
+168,9,Oceania,1995,GDP in current prices (millions of US dollars),473275.6022
+169,9,Oceania,2005,GDP in current prices (millions of US dollars),900359.595
+170,9,Oceania,2010,GDP in current prices (millions of US dollars),1482496.756
+171,9,Oceania,2015,GDP in current prices (millions of US dollars),1472455.14
+172,9,Oceania,2017,GDP in current prices (millions of US dollars),1668986.803
+173,9,Oceania,2018,GDP in current prices (millions of US dollars),1711769.742
+174,53,Australia and New Zealand,1985,GDP in current prices (millions of US dollars),206320.1535
+175,53,Australia and New Zealand,1995,GDP in current prices (millions of US dollars),454245.7945
+176,53,Australia and New Zealand,2005,GDP in current prices (millions of US dollars),875660.3779
+177,53,Australia and New Zealand,2010,GDP in current prices (millions of US dollars),1446046.908
+178,53,Australia and New Zealand,2015,GDP in current prices (millions of US dollars),1426321.23
+179,53,Australia and New Zealand,2017,GDP in current prices (millions of US dollars),1621521.297
+180,53,Australia and New Zealand,2018,GDP in current prices (millions of US dollars),1661791.161
+181,54,Melanesia,1985,GDP in current prices (millions of US dollars),5971.4983
+182,54,Melanesia,1995,GDP in current prices (millions of US dollars),13532.6821
+183,54,Melanesia,2005,GDP in current prices (millions of US dollars),17353.4731
+184,54,Melanesia,2010,GDP in current prices (millions of US dollars),28166.9337
+185,54,Melanesia,2015,GDP in current prices (millions of US dollars),38235.2385
+186,54,Melanesia,2017,GDP in current prices (millions of US dollars),38897.0553
+187,54,Melanesia,2018,GDP in current prices (millions of US dollars),40947.5049
+188,57,Micronesia,1985,GDP in current prices (millions of US dollars),256.5808
+189,57,Micronesia,1995,GDP in current prices (millions of US dollars),544.4359
+190,57,Micronesia,2005,GDP in current prices (millions of US dollars),713.8231
+191,57,Micronesia,2010,GDP in current prices (millions of US dollars),864.0154
+192,57,Micronesia,2015,GDP in current prices (millions of US dollars),1050.4331
+193,57,Micronesia,2017,GDP in current prices (millions of US dollars),1176.0439
+194,57,Micronesia,2018,GDP in current prices (millions of US dollars),1184.7321
+195,61,Polynesia,1985,GDP in current prices (millions of US dollars),1911.18
+196,61,Polynesia,1995,GDP in current prices (millions of US dollars),4952.6897
+197,61,Polynesia,2005,GDP in current prices (millions of US dollars),6631.9208
+198,61,Polynesia,2010,GDP in current prices (millions of US dollars),7418.8991
+199,61,Polynesia,2015,GDP in current prices (millions of US dollars),6848.2392
+200,61,Polynesia,2017,GDP in current prices (millions of US dollars),7392.4071
+201,61,Polynesia,2018,GDP in current prices (millions of US dollars),7846.3436
+202,4,Afghanistan,1985,GDP in current prices (millions of US dollars),3321.9
+203,4,Afghanistan,1995,GDP in current prices (millions of US dollars),3236.3
+204,4,Afghanistan,2005,GDP in current prices (millions of US dollars),6621.8338
+205,4,Afghanistan,2010,GDP in current prices (millions of US dollars),16077.921
+206,4,Afghanistan,2015,GDP in current prices (millions of US dollars),20608.0907
+207,4,Afghanistan,2017,GDP in current prices (millions of US dollars),21515.5021
+208,4,Afghanistan,2018,GDP in current prices (millions of US dollars),20513.8832
+209,8,Albania,1985,GDP in current prices (millions of US dollars),2324.4145
+210,8,Albania,1995,GDP in current prices (millions of US dollars),2392.7649
+211,8,Albania,2005,GDP in current prices (millions of US dollars),8052.0793
+212,8,Albania,2010,GDP in current prices (millions of US dollars),11926.9483
+213,8,Albania,2015,GDP in current prices (millions of US dollars),11386.9249
+214,8,Albania,2017,GDP in current prices (millions of US dollars),13025.0686
+215,8,Albania,2018,GDP in current prices (millions of US dollars),15058.8838
+216,12,Algeria,1985,GDP in current prices (millions of US dollars),57866.2073
+217,12,Algeria,1995,GDP in current prices (millions of US dollars),41971.4884
+218,12,Algeria,2005,GDP in current prices (millions of US dollars),103198.2161
+219,12,Algeria,2010,GDP in current prices (millions of US dollars),161207.305
+220,12,Algeria,2015,GDP in current prices (millions of US dollars),165979.119
+221,12,Algeria,2017,GDP in current prices (millions of US dollars),167389.8904
+222,12,Algeria,2018,GDP in current prices (millions of US dollars),173757.4875
+223,20,Andorra,1985,GDP in current prices (millions of US dollars),438.7425
+224,20,Andorra,1995,GDP in current prices (millions of US dollars),1491.496
+225,20,Andorra,2005,GDP in current prices (millions of US dollars),3255.7111
+226,20,Andorra,2010,GDP in current prices (millions of US dollars),3355.4939
+227,20,Andorra,2015,GDP in current prices (millions of US dollars),2811.6145
+228,20,Andorra,2017,GDP in current prices (millions of US dollars),3020.8523
+229,20,Andorra,2018,GDP in current prices (millions of US dollars),3238.2252
+230,24,Angola,1985,GDP in current prices (millions of US dollars),9109.025
+231,24,Angola,1995,GDP in current prices (millions of US dollars),6642.2293
+232,24,Angola,2005,GDP in current prices (millions of US dollars),36970.8781
+233,24,Angola,2010,GDP in current prices (millions of US dollars),83799.4789
+234,24,Angola,2015,GDP in current prices (millions of US dollars),116193.6475
+235,24,Angola,2017,GDP in current prices (millions of US dollars),122123.8586
+236,24,Angola,2018,GDP in current prices (millions of US dollars),105902.3409
+237,660,Anguilla,1985,GDP in current prices (millions of US dollars),27.1265
+238,660,Anguilla,1995,GDP in current prices (millions of US dollars),103.7365
+239,660,Anguilla,2005,GDP in current prices (millions of US dollars),229.1145
+240,660,Anguilla,2010,GDP in current prices (millions of US dollars),267.9307
+241,660,Anguilla,2015,GDP in current prices (millions of US dollars),330.5349
+242,660,Anguilla,2017,GDP in current prices (millions of US dollars),281.1931
+243,660,Anguilla,2018,GDP in current prices (millions of US dollars),293.0103
+244,28,Antigua and Barbuda,1985,GDP in current prices (millions of US dollars),244.7789
+245,28,Antigua and Barbuda,1995,GDP in current prices (millions of US dollars),577.2815
+246,28,Antigua and Barbuda,2005,GDP in current prices (millions of US dollars),1022.963
+247,28,Antigua and Barbuda,2010,GDP in current prices (millions of US dollars),1148.7
+248,28,Antigua and Barbuda,2015,GDP in current prices (millions of US dollars),1336.6926
+249,28,Antigua and Barbuda,2017,GDP in current prices (millions of US dollars),1467.9778
+250,28,Antigua and Barbuda,2018,GDP in current prices (millions of US dollars),1610.5741
+251,32,Argentina,1985,GDP in current prices (millions of US dollars),95529.9107
+252,32,Argentina,1995,GDP in current prices (millions of US dollars),279701.4254
+253,32,Argentina,2005,GDP in current prices (millions of US dollars),200622.2059
+254,32,Argentina,2010,GDP in current prices (millions of US dollars),426487.4349
+255,32,Argentina,2015,GDP in current prices (millions of US dollars),644903.2005
+256,32,Argentina,2017,GDP in current prices (millions of US dollars),642695.596
+257,32,Argentina,2018,GDP in current prices (millions of US dollars),518475.2879
+258,51,Armenia,1995,GDP in current prices (millions of US dollars),1372.097
+259,51,Armenia,2005,GDP in current prices (millions of US dollars),5225.9719
+260,51,Armenia,2010,GDP in current prices (millions of US dollars),9875.3778
+261,51,Armenia,2015,GDP in current prices (millions of US dollars),10553.3375
+262,51,Armenia,2017,GDP in current prices (millions of US dollars),11527.4587
+263,51,Armenia,2018,GDP in current prices (millions of US dollars),12433.1428
+264,533,Aruba,1985,GDP in current prices (millions of US dollars),430.6964
+265,533,Aruba,1995,GDP in current prices (millions of US dollars),1383.9327
+266,533,Aruba,2005,GDP in current prices (millions of US dollars),2442.6646
+267,533,Aruba,2010,GDP in current prices (millions of US dollars),2501.8027
+268,533,Aruba,2015,GDP in current prices (millions of US dollars),2919.5028
+269,533,Aruba,2017,GDP in current prices (millions of US dollars),3056.2067
+270,533,Aruba,2018,GDP in current prices (millions of US dollars),3203.133
+271,36,Australia,1985,GDP in current prices (millions of US dollars),182212.383
+272,36,Australia,1995,GDP in current prices (millions of US dollars),391094.3584
+273,36,Australia,2005,GDP in current prices (millions of US dollars),760939.5126
+274,36,Australia,2010,GDP in current prices (millions of US dollars),1299463.076
+275,36,Australia,2015,GDP in current prices (millions of US dollars),1248853.701
+276,36,Australia,2017,GDP in current prices (millions of US dollars),1416105.432
+277,36,Australia,2018,GDP in current prices (millions of US dollars),1453870.547
+278,40,Austria,1985,GDP in current prices (millions of US dollars),69388.408
+279,40,Austria,1995,GDP in current prices (millions of US dollars),241054.445
+280,40,Austria,2005,GDP in current prices (millions of US dollars),315966.5597
+281,40,Austria,2010,GDP in current prices (millions of US dollars),391892.7465
+282,40,Austria,2015,GDP in current prices (millions of US dollars),381817.5659
+283,40,Austria,2017,GDP in current prices (millions of US dollars),418316.1611
+284,40,Austria,2018,GDP in current prices (millions of US dollars),455508.255
+285,31,Azerbaijan,1995,GDP in current prices (millions of US dollars),3080.8003
+286,31,Azerbaijan,2005,GDP in current prices (millions of US dollars),13245.4219
+287,31,Azerbaijan,2010,GDP in current prices (millions of US dollars),52905.9989
+288,31,Azerbaijan,2015,GDP in current prices (millions of US dollars),53076.2448
+289,31,Azerbaijan,2017,GDP in current prices (millions of US dollars),40866.6321
+290,31,Azerbaijan,2018,GDP in current prices (millions of US dollars),46939.1281
+291,44,Bahamas,1985,GDP in current prices (millions of US dollars),3306.3374
+292,44,Bahamas,1995,GDP in current prices (millions of US dollars),5164.6084
+293,44,Bahamas,2005,GDP in current prices (millions of US dollars),9836.2
+294,44,Bahamas,2010,GDP in current prices (millions of US dollars),10095.8
+295,44,Bahamas,2015,GDP in current prices (millions of US dollars),11752.3
+296,44,Bahamas,2017,GDP in current prices (millions of US dollars),12150.4
+297,44,Bahamas,2018,GDP in current prices (millions of US dollars),12424.5
+298,48,Bahrain,1985,GDP in current prices (millions of US dollars),4475.0228
+299,48,Bahrain,1995,GDP in current prices (millions of US dollars),6786.9686
+300,48,Bahrain,2005,GDP in current prices (millions of US dollars),15968.7268
+301,48,Bahrain,2010,GDP in current prices (millions of US dollars),25713.2713
+302,48,Bahrain,2015,GDP in current prices (millions of US dollars),31125.7979
+303,48,Bahrain,2017,GDP in current prices (millions of US dollars),35432.6664
+304,48,Bahrain,2018,GDP in current prices (millions of US dollars),37876.3024
+305,50,Bangladesh,1985,GDP in current prices (millions of US dollars),19169.0471
+306,50,Bangladesh,1995,GDP in current prices (millions of US dollars),37866.0297
+307,50,Bangladesh,2005,GDP in current prices (millions of US dollars),57628.0975
+308,50,Bangladesh,2010,GDP in current prices (millions of US dollars),114507.7977
+309,50,Bangladesh,2015,GDP in current prices (millions of US dollars),194465.9811
+310,50,Bangladesh,2017,GDP in current prices (millions of US dollars),245633.4889
+311,50,Bangladesh,2018,GDP in current prices (millions of US dollars),269627.6155
+312,52,Barbados,1985,GDP in current prices (millions of US dollars),1439.3415
+313,52,Barbados,1995,GDP in current prices (millions of US dollars),2297.0536
+314,52,Barbados,2005,GDP in current prices (millions of US dollars),3935.5125
+315,52,Barbados,2010,GDP in current prices (millions of US dollars),4529.9283
+316,52,Barbados,2015,GDP in current prices (millions of US dollars),4715.0036
+317,52,Barbados,2017,GDP in current prices (millions of US dollars),4978.1539
+318,52,Barbados,2018,GDP in current prices (millions of US dollars),5086.6933
+319,112,Belarus,1995,GDP in current prices (millions of US dollars),14323.702
+320,112,Belarus,2005,GDP in current prices (millions of US dollars),31231.9836
+321,112,Belarus,2010,GDP in current prices (millions of US dollars),57231.9059
+322,112,Belarus,2015,GDP in current prices (millions of US dollars),56454.7773
+323,112,Belarus,2017,GDP in current prices (millions of US dollars),54725.4188
+324,112,Belarus,2018,GDP in current prices (millions of US dollars),59662.2535
+325,56,Belgium,1985,GDP in current prices (millions of US dollars),86265.7929
+326,56,Belgium,1995,GDP in current prices (millions of US dollars),288029.3231
+327,56,Belgium,2005,GDP in current prices (millions of US dollars),385561.359
+328,56,Belgium,2010,GDP in current prices (millions of US dollars),480951.6295
+329,56,Belgium,2015,GDP in current prices (millions of US dollars),462149.6793
+330,56,Belgium,2017,GDP in current prices (millions of US dollars),504250.0254
+331,56,Belgium,2018,GDP in current prices (millions of US dollars),543026.2665
+332,84,Belize,1985,GDP in current prices (millions of US dollars),231.6573
+333,84,Belize,1995,GDP in current prices (millions of US dollars),620.1404
+334,84,Belize,2005,GDP in current prices (millions of US dollars),1102.0416
+335,84,Belize,2010,GDP in current prices (millions of US dollars),1377.1791
+336,84,Belize,2015,GDP in current prices (millions of US dollars),1723.7854
+337,84,Belize,2017,GDP in current prices (millions of US dollars),1836.5935
+338,84,Belize,2018,GDP in current prices (millions of US dollars),1871.2032
+339,204,Benin,1985,GDP in current prices (millions of US dollars),1129.5787
+340,204,Benin,1995,GDP in current prices (millions of US dollars),2344.819
+341,204,Benin,2005,GDP in current prices (millions of US dollars),4803.6721
+342,204,Benin,2010,GDP in current prices (millions of US dollars),6970.2547
+343,204,Benin,2015,GDP in current prices (millions of US dollars),8454.189
+344,204,Benin,2017,GDP in current prices (millions of US dollars),9269.3317
+345,204,Benin,2018,GDP in current prices (millions of US dollars),10411.6372
+346,60,Bermuda,1985,GDP in current prices (millions of US dollars),1428.2562
+347,60,Bermuda,1995,GDP in current prices (millions of US dollars),2556.7665
+348,60,Bermuda,2005,GDP in current prices (millions of US dollars),4868.1357
+349,60,Bermuda,2010,GDP in current prices (millions of US dollars),5852.9733
+350,60,Bermuda,2015,GDP in current prices (millions of US dollars),5890.6824
+351,60,Bermuda,2017,GDP in current prices (millions of US dollars),6269.384
+352,60,Bermuda,2018,GDP in current prices (millions of US dollars),6351.4
+353,64,Bhutan,1985,GDP in current prices (millions of US dollars),172.2032
+354,64,Bhutan,1995,GDP in current prices (millions of US dollars),289.1352
+355,64,Bhutan,2005,GDP in current prices (millions of US dollars),818.8696
+356,64,Bhutan,2010,GDP in current prices (millions of US dollars),1585.4643
+357,64,Bhutan,2015,GDP in current prices (millions of US dollars),2059.8085
+358,64,Bhutan,2017,GDP in current prices (millions of US dollars),2528.0092
+359,64,Bhutan,2018,GDP in current prices (millions of US dollars),2658.3121
+360,68,Bolivia (Plurin. State of),1985,GDP in current prices (millions of US dollars),4124.2738
+361,68,Bolivia (Plurin. State of),1995,GDP in current prices (millions of US dollars),6715.147
+362,68,Bolivia (Plurin. State of),2005,GDP in current prices (millions of US dollars),9549.1202
+363,68,Bolivia (Plurin. State of),2010,GDP in current prices (millions of US dollars),19649.7862
+364,68,Bolivia (Plurin. State of),2015,GDP in current prices (millions of US dollars),33000.1983
+365,68,Bolivia (Plurin. State of),2017,GDP in current prices (millions of US dollars),37508.6831
+366,68,Bolivia (Plurin. State of),2018,GDP in current prices (millions of US dollars),40287.6479
+367,70,Bosnia and Herzegovina,1995,GDP in current prices (millions of US dollars),2033.7461
+368,70,Bosnia and Herzegovina,2005,GDP in current prices (millions of US dollars),11222.7962
+369,70,Bosnia and Herzegovina,2010,GDP in current prices (millions of US dollars),17176.3208
+370,70,Bosnia and Herzegovina,2015,GDP in current prices (millions of US dollars),16211.6184
+371,70,Bosnia and Herzegovina,2017,GDP in current prices (millions of US dollars),18080.6109
+372,70,Bosnia and Herzegovina,2018,GDP in current prices (millions of US dollars),19781.95
+373,72,Botswana,1985,GDP in current prices (millions of US dollars),837.5916
+374,72,Botswana,1995,GDP in current prices (millions of US dollars),4730.5997
+375,72,Botswana,2005,GDP in current prices (millions of US dollars),9931.2492
+376,72,Botswana,2010,GDP in current prices (millions of US dollars),12786.6123
+377,72,Botswana,2015,GDP in current prices (millions of US dollars),14420.5712
+378,72,Botswana,2017,GDP in current prices (millions of US dollars),17405.5035
+379,72,Botswana,2018,GDP in current prices (millions of US dollars),18614.6047
+380,76,Brazil,1985,GDP in current prices (millions of US dollars),187459.773
+381,76,Brazil,1995,GDP in current prices (millions of US dollars),778052.8217
+382,76,Brazil,2005,GDP in current prices (millions of US dollars),891633.8266
+383,76,Brazil,2010,GDP in current prices (millions of US dollars),2208838.109
+384,76,Brazil,2015,GDP in current prices (millions of US dollars),1802212.0
+385,76,Brazil,2017,GDP in current prices (millions of US dollars),2053601.668
+386,76,Brazil,2018,GDP in current prices (millions of US dollars),1868613.092
+387,92,British Virgin Islands,1985,GDP in current prices (millions of US dollars),52.6454
+388,92,British Virgin Islands,1995,GDP in current prices (millions of US dollars),453.3683
+389,92,British Virgin Islands,2005,GDP in current prices (millions of US dollars),993.5275
+390,92,British Virgin Islands,2010,GDP in current prices (millions of US dollars),1020.9352
+391,92,British Virgin Islands,2015,GDP in current prices (millions of US dollars),1174.3322
+392,92,British Virgin Islands,2017,GDP in current prices (millions of US dollars),1364.1645
+393,92,British Virgin Islands,2018,GDP in current prices (millions of US dollars),1445.7325
+394,96,Brunei Darussalam,1985,GDP in current prices (millions of US dollars),4425.4936
+395,96,Brunei Darussalam,1995,GDP in current prices (millions of US dollars),5245.4212
+396,96,Brunei Darussalam,2005,GDP in current prices (millions of US dollars),10561.2925
+397,96,Brunei Darussalam,2010,GDP in current prices (millions of US dollars),13707.1163
+398,96,Brunei Darussalam,2015,GDP in current prices (millions of US dollars),12930.2983
+399,96,Brunei Darussalam,2017,GDP in current prices (millions of US dollars),12128.1666
+400,96,Brunei Darussalam,2018,GDP in current prices (millions of US dollars),13566.9128
+401,100,Bulgaria,1985,GDP in current prices (millions of US dollars),16483.3454
+402,100,Bulgaria,1995,GDP in current prices (millions of US dollars),18991.874
+403,100,Bulgaria,2005,GDP in current prices (millions of US dollars),29868.6261
+404,100,Bulgaria,2010,GDP in current prices (millions of US dollars),50363.5574
+405,100,Bulgaria,2015,GDP in current prices (millions of US dollars),50630.696
+406,100,Bulgaria,2017,GDP in current prices (millions of US dollars),58951.5162
+407,100,Bulgaria,2018,GDP in current prices (millions of US dollars),66199.1803
+408,854,Burkina Faso,1985,GDP in current prices (millions of US dollars),1764.1278
+409,854,Burkina Faso,1995,GDP in current prices (millions of US dollars),2703.7312
+410,854,Burkina Faso,2005,GDP in current prices (millions of US dollars),6143.8782
+411,854,Burkina Faso,2010,GDP in current prices (millions of US dollars),10099.8023
+412,854,Burkina Faso,2015,GDP in current prices (millions of US dollars),11823.1884
+413,854,Burkina Faso,2017,GDP in current prices (millions of US dollars),14169.9894
+414,854,Burkina Faso,2018,GDP in current prices (millions of US dollars),16199.6475
+415,108,Burundi,1985,GDP in current prices (millions of US dollars),1171.1502
+416,108,Burundi,1995,GDP in current prices (millions of US dollars),1000.4304
+417,108,Burundi,2005,GDP in current prices (millions of US dollars),1117.1094
+418,108,Burundi,2010,GDP in current prices (millions of US dollars),2032.1376
+419,108,Burundi,2015,GDP in current prices (millions of US dollars),2810.5316
+420,108,Burundi,2017,GDP in current prices (millions of US dollars),3217.0168
+421,108,Burundi,2018,GDP in current prices (millions of US dollars),3285.1503
+422,132,Cabo Verde,1985,GDP in current prices (millions of US dollars),156.6873
+423,132,Cabo Verde,1995,GDP in current prices (millions of US dollars),557.9535
+424,132,Cabo Verde,2005,GDP in current prices (millions of US dollars),1105.394
+425,132,Cabo Verde,2010,GDP in current prices (millions of US dollars),1664.3106
+426,132,Cabo Verde,2015,GDP in current prices (millions of US dollars),1596.1541
+427,132,Cabo Verde,2017,GDP in current prices (millions of US dollars),1769.7865
+428,132,Cabo Verde,2018,GDP in current prices (millions of US dollars),1976.8147
+429,116,Cambodia,1985,GDP in current prices (millions of US dollars),1059.2951
+430,116,Cambodia,1995,GDP in current prices (millions of US dollars),3309.356
+431,116,Cambodia,2005,GDP in current prices (millions of US dollars),6293.0483
+432,116,Cambodia,2010,GDP in current prices (millions of US dollars),11242.2788
+433,116,Cambodia,2015,GDP in current prices (millions of US dollars),18049.9539
+434,116,Cambodia,2017,GDP in current prices (millions of US dollars),22177.2006
+435,116,Cambodia,2018,GDP in current prices (millions of US dollars),24571.7536
+436,120,Cameroon,1985,GDP in current prices (millions of US dollars),9597.1064
+437,120,Cameroon,1995,GDP in current prices (millions of US dollars),9641.3075
+438,120,Cameroon,2005,GDP in current prices (millions of US dollars),17944.0827
+439,120,Cameroon,2010,GDP in current prices (millions of US dollars),26143.7528
+440,120,Cameroon,2015,GDP in current prices (millions of US dollars),30905.2835
+441,120,Cameroon,2017,GDP in current prices (millions of US dollars),35009.2598
+442,120,Cameroon,2018,GDP in current prices (millions of US dollars),38694.1598
+443,124,Canada,1985,GDP in current prices (millions of US dollars),366185.3557
+444,124,Canada,1995,GDP in current prices (millions of US dollars),605923.3883
+445,124,Canada,2005,GDP in current prices (millions of US dollars),1173143.271
+446,124,Canada,2010,GDP in current prices (millions of US dollars),1617265.764
+447,124,Canada,2015,GDP in current prices (millions of US dollars),1556127.179
+448,124,Canada,2017,GDP in current prices (millions of US dollars),1650187.054
+449,124,Canada,2018,GDP in current prices (millions of US dollars),1712562.076
+450,136,Cayman Islands,1985,GDP in current prices (millions of US dollars),548.4981
+451,136,Cayman Islands,1995,GDP in current prices (millions of US dollars),1708.8685
+452,136,Cayman Islands,2005,GDP in current prices (millions of US dollars),4009.7812
+453,136,Cayman Islands,2010,GDP in current prices (millions of US dollars),4276.5117
+454,136,Cayman Islands,2015,GDP in current prices (millions of US dollars),4784.7037
+455,136,Cayman Islands,2017,GDP in current prices (millions of US dollars),5225.232
+456,136,Cayman Islands,2018,GDP in current prices (millions of US dollars),5485.2219
+457,140,Central African Republic,1985,GDP in current prices (millions of US dollars),904.8833
+458,140,Central African Republic,1995,GDP in current prices (millions of US dollars),1167.0205
+459,140,Central African Republic,2005,GDP in current prices (millions of US dollars),1412.8057
+460,140,Central African Republic,2010,GDP in current prices (millions of US dollars),2033.8139
+461,140,Central African Republic,2015,GDP in current prices (millions of US dollars),1632.1361
+462,140,Central African Republic,2017,GDP in current prices (millions of US dollars),1997.3543
+463,140,Central African Republic,2018,GDP in current prices (millions of US dollars),2243.1671
+464,148,Chad,1985,GDP in current prices (millions of US dollars),986.893
+465,148,Chad,1995,GDP in current prices (millions of US dollars),1643.2767
+466,148,Chad,2005,GDP in current prices (millions of US dollars),6680.612
+467,148,Chad,2010,GDP in current prices (millions of US dollars),10970.6281
+468,148,Chad,2015,GDP in current prices (millions of US dollars),11690.46
+469,148,Chad,2017,GDP in current prices (millions of US dollars),10394.0202
+470,148,Chad,2018,GDP in current prices (millions of US dollars),11387.4244
+471,152,Chile,1985,GDP in current prices (millions of US dollars),18984.5206
+472,152,Chile,1995,GDP in current prices (millions of US dollars),75099.0737
+473,152,Chile,2005,GDP in current prices (millions of US dollars),122964.812
+474,152,Chile,2010,GDP in current prices (millions of US dollars),218537.5655
+475,152,Chile,2015,GDP in current prices (millions of US dollars),243919.0853
+476,152,Chile,2017,GDP in current prices (millions of US dollars),277746.4611
+477,152,Chile,2018,GDP in current prices (millions of US dollars),298231.1335
+478,156,China,1985,GDP in current prices (millions of US dollars),309838.5637
+479,156,China,1995,GDP in current prices (millions of US dollars),734484.9676
+480,156,China,2005,GDP in current prices (millions of US dollars),2285961.205
+481,156,China,2010,GDP in current prices (millions of US dollars),6087192.374
+482,156,China,2015,GDP in current prices (millions of US dollars),11015562.39
+483,156,China,2017,GDP in current prices (millions of US dollars),12143572.14
+484,156,China,2018,GDP in current prices (millions of US dollars),13608151.86
+485,344,"China, Hong Kong SAR",1985,GDP in current prices (millions of US dollars),35699.7722
+486,344,"China, Hong Kong SAR",1995,GDP in current prices (millions of US dollars),144652.2891
+487,344,"China, Hong Kong SAR",2005,GDP in current prices (millions of US dollars),181569.304
+488,344,"China, Hong Kong SAR",2010,GDP in current prices (millions of US dollars),228638.6785
+489,344,"China, Hong Kong SAR",2015,GDP in current prices (millions of US dollars),309385.6226
+490,344,"China, Hong Kong SAR",2017,GDP in current prices (millions of US dollars),341684.9196
+491,344,"China, Hong Kong SAR",2018,GDP in current prices (millions of US dollars),362682.0182
+492,446,"China, Macao SAR",1985,GDP in current prices (millions of US dollars),1348.8203
+493,446,"China, Macao SAR",1995,GDP in current prices (millions of US dollars),6996.0706
+494,446,"China, Macao SAR",2005,GDP in current prices (millions of US dollars),12092.2755
+495,446,"China, Macao SAR",2010,GDP in current prices (millions of US dollars),28123.5824
+496,446,"China, Macao SAR",2015,GDP in current prices (millions of US dollars),45361.903
+497,446,"China, Macao SAR",2017,GDP in current prices (millions of US dollars),50559.4256
+498,446,"China, Macao SAR",2018,GDP in current prices (millions of US dollars),54545.1342
+499,170,Colombia,1985,GDP in current prices (millions of US dollars),48856.1149
+500,170,Colombia,1995,GDP in current prices (millions of US dollars),109249.9371
+501,170,Colombia,2005,GDP in current prices (millions of US dollars),145180.9617
+502,170,Colombia,2010,GDP in current prices (millions of US dollars),286103.6432
+503,170,Colombia,2015,GDP in current prices (millions of US dollars),293481.7531
+504,170,Colombia,2017,GDP in current prices (millions of US dollars),311789.8744
+505,170,Colombia,2018,GDP in current prices (millions of US dollars),330227.8696
+506,174,Comoros,1985,GDP in current prices (millions of US dollars),239.886
+507,174,Comoros,1995,GDP in current prices (millions of US dollars),483.2137
+508,174,Comoros,2005,GDP in current prices (millions of US dollars),787.3381
+509,174,Comoros,2010,GDP in current prices (millions of US dollars),907.094
+510,174,Comoros,2015,GDP in current prices (millions of US dollars),988.1507
+511,174,Comoros,2017,GDP in current prices (millions of US dollars),1065.0193
+512,174,Comoros,2018,GDP in current prices (millions of US dollars),1165.6904
+513,178,Congo,1985,GDP in current prices (millions of US dollars),2338.6435
+514,178,Congo,1995,GDP in current prices (millions of US dollars),2207.3805
+515,178,Congo,2005,GDP in current prices (millions of US dollars),6349.7799
+516,178,Congo,2010,GDP in current prices (millions of US dollars),13678.0119
+517,178,Congo,2015,GDP in current prices (millions of US dollars),11091.5347
+518,178,Congo,2017,GDP in current prices (millions of US dollars),10978.9713
+519,178,Congo,2018,GDP in current prices (millions of US dollars),14173.1883
+520,184,Cook Islands,1985,GDP in current prices (millions of US dollars),30.7817
+521,184,Cook Islands,1995,GDP in current prices (millions of US dollars),115.572
+522,184,Cook Islands,2005,GDP in current prices (millions of US dollars),199.1965
+523,184,Cook Islands,2010,GDP in current prices (millions of US dollars),240.7884
+524,184,Cook Islands,2015,GDP in current prices (millions of US dollars),302.1735
+525,184,Cook Islands,2017,GDP in current prices (millions of US dollars),345.609
+526,184,Cook Islands,2018,GDP in current prices (millions of US dollars),362.7139
+527,188,Costa Rica,1985,GDP in current prices (millions of US dollars),4988.7735
+528,188,Costa Rica,1995,GDP in current prices (millions of US dollars),11507.1202
+529,188,Costa Rica,2005,GDP in current prices (millions of US dollars),19952.1548
+530,188,Costa Rica,2010,GDP in current prices (millions of US dollars),37268.6352
+531,188,Costa Rica,2015,GDP in current prices (millions of US dollars),54775.9976
+532,188,Costa Rica,2017,GDP in current prices (millions of US dollars),58174.5502
+533,188,Costa Rica,2018,GDP in current prices (millions of US dollars),60126.0148
+534,384,Côte d’Ivoire,1985,GDP in current prices (millions of US dollars),6977.6506
+535,384,Côte d’Ivoire,1995,GDP in current prices (millions of US dollars),11104.9133
+536,384,Côte d’Ivoire,2005,GDP in current prices (millions of US dollars),17084.9275
+537,384,Côte d’Ivoire,2010,GDP in current prices (millions of US dollars),24884.504
+538,384,Côte d’Ivoire,2015,GDP in current prices (millions of US dollars),33119.3633
+539,384,Côte d’Ivoire,2017,GDP in current prices (millions of US dollars),38147.8369
+540,384,Côte d’Ivoire,2018,GDP in current prices (millions of US dollars),43028.0572
+541,191,Croatia,1995,GDP in current prices (millions of US dollars),22417.6458
+542,191,Croatia,2005,GDP in current prices (millions of US dollars),45386.4683
+543,191,Croatia,2010,GDP in current prices (millions of US dollars),59807.8448
+544,191,Croatia,2015,GDP in current prices (millions of US dollars),49530.6253
+545,191,Croatia,2017,GDP in current prices (millions of US dollars),55319.3655
+546,191,Croatia,2018,GDP in current prices (millions of US dollars),60991.1831
+547,192,Cuba,1985,GDP in current prices (millions of US dollars),22921.2169
+548,192,Cuba,1995,GDP in current prices (millions of US dollars),30428.1439
+549,192,Cuba,2005,GDP in current prices (millions of US dollars),42643.6
+550,192,Cuba,2010,GDP in current prices (millions of US dollars),64328.0
+551,192,Cuba,2015,GDP in current prices (millions of US dollars),87205.6714
+552,192,Cuba,2017,GDP in current prices (millions of US dollars),96851.0
+553,192,Cuba,2018,GDP in current prices (millions of US dollars),100023.0
+554,531,Curaçao,2005,GDP in current prices (millions of US dollars),2344.6373
+555,531,Curaçao,2010,GDP in current prices (millions of US dollars),2951.3428
+556,531,Curaçao,2015,GDP in current prices (millions of US dollars),3151.9108
+557,531,Curaçao,2017,GDP in current prices (millions of US dollars),3116.6291
+558,531,Curaçao,2018,GDP in current prices (millions of US dollars),3127.908
+559,196,Cyprus,1985,GDP in current prices (millions of US dollars),2711.4496
+560,196,Cyprus,1995,GDP in current prices (millions of US dollars),9933.0439
+561,196,Cyprus,2005,GDP in current prices (millions of US dollars),18693.5103
+562,196,Cyprus,2010,GDP in current prices (millions of US dollars),25707.0787
+563,196,Cyprus,2015,GDP in current prices (millions of US dollars),19771.2226
+564,196,Cyprus,2017,GDP in current prices (millions of US dollars),22638.4719
+565,196,Cyprus,2018,GDP in current prices (millions of US dollars),24962.7802
+566,203,Czechia,1995,GDP in current prices (millions of US dollars),59774.1956
+567,203,Czechia,2005,GDP in current prices (millions of US dollars),136280.5951
+568,203,Czechia,2010,GDP in current prices (millions of US dollars),207477.8579
+569,203,Czechia,2015,GDP in current prices (millions of US dollars),186829.9405
+570,203,Czechia,2017,GDP in current prices (millions of US dollars),215913.545
+571,203,Czechia,2018,GDP in current prices (millions of US dollars),245225.8829
+572,408,Dem. People's Rep. Korea,1985,GDP in current prices (millions of US dollars),12074.7361
+573,408,Dem. People's Rep. Korea,1995,GDP in current prices (millions of US dollars),4849.2958
+574,408,Dem. People's Rep. Korea,2005,GDP in current prices (millions of US dollars),13031.1968
+575,408,Dem. People's Rep. Korea,2010,GDP in current prices (millions of US dollars),13945.1673
+576,408,Dem. People's Rep. Korea,2015,GDP in current prices (millions of US dollars),16282.6014
+577,408,Dem. People's Rep. Korea,2017,GDP in current prices (millions of US dollars),17364.7249
+578,408,Dem. People's Rep. Korea,2018,GDP in current prices (millions of US dollars),17487.2611
+579,180,Dem. Rep. of the Congo,1985,GDP in current prices (millions of US dollars),7524.2323
+580,180,Dem. Rep. of the Congo,1995,GDP in current prices (millions of US dollars),8946.5796
+581,180,Dem. Rep. of the Congo,2005,GDP in current prices (millions of US dollars),11964.5583
+582,180,Dem. Rep. of the Congo,2010,GDP in current prices (millions of US dollars),21565.7465
+583,180,Dem. Rep. of the Congo,2015,GDP in current prices (millions of US dollars),37917.6784
+584,180,Dem. Rep. of the Congo,2017,GDP in current prices (millions of US dollars),37642.4645
+585,180,Dem. Rep. of the Congo,2018,GDP in current prices (millions of US dollars),47146.0037
+586,208,Denmark,1985,GDP in current prices (millions of US dollars),62658.5937
+587,208,Denmark,1995,GDP in current prices (millions of US dollars),185008.0621
+588,208,Denmark,2005,GDP in current prices (millions of US dollars),264466.8671
+589,208,Denmark,2010,GDP in current prices (millions of US dollars),321995.3503
+590,208,Denmark,2015,GDP in current prices (millions of US dollars),302673.038
+591,208,Denmark,2017,GDP in current prices (millions of US dollars),329417.0974
+592,208,Denmark,2018,GDP in current prices (millions of US dollars),355675.3109
+593,262,Djibouti,1985,GDP in current prices (millions of US dollars),355.4094
+594,262,Djibouti,1995,GDP in current prices (millions of US dollars),509.6314
+595,262,Djibouti,2005,GDP in current prices (millions of US dollars),708.6332
+596,262,Djibouti,2010,GDP in current prices (millions of US dollars),1243.6517
+597,262,Djibouti,2015,GDP in current prices (millions of US dollars),2445.4846
+598,262,Djibouti,2017,GDP in current prices (millions of US dollars),2766.8681
+599,262,Djibouti,2018,GDP in current prices (millions of US dollars),2923.3626
+600,212,Dominica,1985,GDP in current prices (millions of US dollars),116.8344
+601,212,Dominica,1995,GDP in current prices (millions of US dollars),259.7149
+602,212,Dominica,2005,GDP in current prices (millions of US dollars),370.4148
+603,212,Dominica,2010,GDP in current prices (millions of US dollars),493.8259
+604,212,Dominica,2015,GDP in current prices (millions of US dollars),540.8296
+605,212,Dominica,2017,GDP in current prices (millions of US dollars),519.837
+606,212,Dominica,2018,GDP in current prices (millions of US dollars),550.8926
+607,214,Dominican Republic,1985,GDP in current prices (millions of US dollars),5617.9731
+608,214,Dominican Republic,1995,GDP in current prices (millions of US dollars),15747.4039
+609,214,Dominican Republic,2005,GDP in current prices (millions of US dollars),35510.4015
+610,214,Dominican Republic,2010,GDP in current prices (millions of US dollars),53159.5696
+611,214,Dominican Republic,2015,GDP in current prices (millions of US dollars),68802.0956
+612,214,Dominican Republic,2017,GDP in current prices (millions of US dollars),76011.2744
+613,214,Dominican Republic,2018,GDP in current prices (millions of US dollars),81298.5854
+614,218,Ecuador,1985,GDP in current prices (millions of US dollars),17140.874
+615,218,Ecuador,1995,GDP in current prices (millions of US dollars),24420.668
+616,218,Ecuador,2005,GDP in current prices (millions of US dollars),41507.085
+617,218,Ecuador,2010,GDP in current prices (millions of US dollars),69555.367
+618,218,Ecuador,2015,GDP in current prices (millions of US dollars),99290.381
+619,218,Ecuador,2017,GDP in current prices (millions of US dollars),104295.862
+620,218,Ecuador,2018,GDP in current prices (millions of US dollars),108398.058
+621,818,Egypt,1985,GDP in current prices (millions of US dollars),23784.328
+622,818,Egypt,1995,GDP in current prices (millions of US dollars),65758.0364
+623,818,Egypt,2005,GDP in current prices (millions of US dollars),94456.3218
+624,818,Egypt,2010,GDP in current prices (millions of US dollars),214630.372
+625,818,Egypt,2015,GDP in current prices (millions of US dollars),317744.5607
+626,818,Egypt,2017,GDP in current prices (millions of US dollars),195135.2993
+627,818,Egypt,2018,GDP in current prices (millions of US dollars),249751.0816
+628,222,El Salvador,1985,GDP in current prices (millions of US dollars),1892.1862
+629,222,El Salvador,1995,GDP in current prices (millions of US dollars),8921.9471
+630,222,El Salvador,2005,GDP in current prices (millions of US dollars),14698.0014
+631,222,El Salvador,2010,GDP in current prices (millions of US dollars),18447.9224
+632,222,El Salvador,2015,GDP in current prices (millions of US dollars),23438.2379
+633,222,El Salvador,2017,GDP in current prices (millions of US dollars),24927.9737
+634,222,El Salvador,2018,GDP in current prices (millions of US dollars),26056.9449
+635,226,Equatorial Guinea,1985,GDP in current prices (millions of US dollars),88.2903
+636,226,Equatorial Guinea,1995,GDP in current prices (millions of US dollars),215.3279
+637,226,Equatorial Guinea,2005,GDP in current prices (millions of US dollars),8519.6771
+638,226,Equatorial Guinea,2010,GDP in current prices (millions of US dollars),16298.5353
+639,226,Equatorial Guinea,2015,GDP in current prices (millions of US dollars),13175.5207
+640,226,Equatorial Guinea,2017,GDP in current prices (millions of US dollars),12517.6707
+641,226,Equatorial Guinea,2018,GDP in current prices (millions of US dollars),13324.3572
+642,232,Eritrea,1995,GDP in current prices (millions of US dollars),639.7237
+643,232,Eritrea,2005,GDP in current prices (millions of US dollars),1098.4247
+644,232,Eritrea,2010,GDP in current prices (millions of US dollars),2117.0395
+645,232,Eritrea,2015,GDP in current prices (millions of US dollars),4442.1275
+646,232,Eritrea,2017,GDP in current prices (millions of US dollars),5928.3318
+647,232,Eritrea,2018,GDP in current prices (millions of US dollars),6855.259
+648,233,Estonia,1995,GDP in current prices (millions of US dollars),4470.6874
+649,233,Estonia,2005,GDP in current prices (millions of US dollars),14095.6873
+650,233,Estonia,2010,GDP in current prices (millions of US dollars),19696.7681
+651,233,Estonia,2015,GDP in current prices (millions of US dollars),23048.8642
+652,233,Estonia,2017,GDP in current prices (millions of US dollars),26859.1011
+653,233,Estonia,2018,GDP in current prices (millions of US dollars),30747.1592
+654,748,Eswatini,1985,GDP in current prices (millions of US dollars),538.7148
+655,748,Eswatini,1995,GDP in current prices (millions of US dollars),1901.6522
+656,748,Eswatini,2005,GDP in current prices (millions of US dollars),3178.1658
+657,748,Eswatini,2010,GDP in current prices (millions of US dollars),4438.7399
+658,748,Eswatini,2015,GDP in current prices (millions of US dollars),4073.382
+659,748,Eswatini,2017,GDP in current prices (millions of US dollars),4446.2256
+660,748,Eswatini,2018,GDP in current prices (millions of US dollars),4710.6275
+661,231,Ethiopia,1995,GDP in current prices (millions of US dollars),7586.8368
+662,231,Ethiopia,2005,GDP in current prices (millions of US dollars),12163.585
+663,231,Ethiopia,2010,GDP in current prices (millions of US dollars),26311.2972
+664,231,Ethiopia,2015,GDP in current prices (millions of US dollars),63078.6578
+665,231,Ethiopia,2017,GDP in current prices (millions of US dollars),76784.7844
+666,231,Ethiopia,2018,GDP in current prices (millions of US dollars),80292.4518
+667,242,Fiji,1985,GDP in current prices (millions of US dollars),1142.588
+668,242,Fiji,1995,GDP in current prices (millions of US dollars),1993.363
+669,242,Fiji,2005,GDP in current prices (millions of US dollars),2980.6028
+670,242,Fiji,2010,GDP in current prices (millions of US dollars),3140.5275
+671,242,Fiji,2015,GDP in current prices (millions of US dollars),4682.495
+672,242,Fiji,2017,GDP in current prices (millions of US dollars),5353.4684
+673,242,Fiji,2018,GDP in current prices (millions of US dollars),5536.8133
+674,246,Finland,1985,GDP in current prices (millions of US dollars),55875.2604
+675,246,Finland,1995,GDP in current prices (millions of US dollars),134186.0486
+676,246,Finland,2005,GDP in current prices (millions of US dollars),204804.0094
+677,246,Finland,2010,GDP in current prices (millions of US dollars),249181.1905
+678,246,Finland,2015,GDP in current prices (millions of US dollars),234585.3687
+679,246,Finland,2017,GDP in current prices (millions of US dollars),255065.0644
+680,246,Finland,2018,GDP in current prices (millions of US dollars),276878.3277
+681,250,France,1985,GDP in current prices (millions of US dollars),553142.969
+682,250,France,1995,GDP in current prices (millions of US dollars),1600996.702
+683,250,France,2005,GDP in current prices (millions of US dollars),2196071.482
+684,250,France,2010,GDP in current prices (millions of US dollars),2642609.549
+685,250,France,2015,GDP in current prices (millions of US dollars),2438207.896
+686,250,France,2017,GDP in current prices (millions of US dollars),2592689.47
+687,250,France,2018,GDP in current prices (millions of US dollars),2778892.247
+688,258,French Polynesia,1985,GDP in current prices (millions of US dollars),1716.1109
+689,258,French Polynesia,1995,GDP in current prices (millions of US dollars),4420.6023
+690,258,French Polynesia,2005,GDP in current prices (millions of US dollars),5702.7831
+691,258,French Polynesia,2010,GDP in current prices (millions of US dollars),6080.712
+692,258,French Polynesia,2015,GDP in current prices (millions of US dollars),5323.7049
+693,258,French Polynesia,2017,GDP in current prices (millions of US dollars),5685.9462
+694,258,French Polynesia,2018,GDP in current prices (millions of US dollars),6099.9247
+695,266,Gabon,1985,GDP in current prices (millions of US dollars),4639.0975
+696,266,Gabon,1995,GDP in current prices (millions of US dollars),5519.1774
+697,266,Gabon,2005,GDP in current prices (millions of US dollars),9578.9728
+698,266,Gabon,2010,GDP in current prices (millions of US dollars),14358.631
+699,266,Gabon,2015,GDP in current prices (millions of US dollars),14372.2904
+700,266,Gabon,2017,GDP in current prices (millions of US dollars),14929.4743
+701,266,Gabon,2018,GDP in current prices (millions of US dollars),16994.0772
+702,270,Gambia,1985,GDP in current prices (millions of US dollars),1087.4479
+703,270,Gambia,1995,GDP in current prices (millions of US dollars),1306.2746
+704,270,Gambia,2005,GDP in current prices (millions of US dollars),1027.7011
+705,270,Gambia,2010,GDP in current prices (millions of US dollars),1543.2949
+706,270,Gambia,2015,GDP in current prices (millions of US dollars),1378.1766
+707,270,Gambia,2017,GDP in current prices (millions of US dollars),1504.9541
+708,270,Gambia,2018,GDP in current prices (millions of US dollars),1632.8217
+709,268,Georgia,1995,GDP in current prices (millions of US dollars),2843.751
+710,268,Georgia,2005,GDP in current prices (millions of US dollars),6744.165
+711,268,Georgia,2010,GDP in current prices (millions of US dollars),12243.2021
+712,268,Georgia,2015,GDP in current prices (millions of US dollars),14953.6829
+713,268,Georgia,2017,GDP in current prices (millions of US dollars),16242.6725
+714,268,Georgia,2018,GDP in current prices (millions of US dollars),17599.6023
+715,276,Germany,1985,GDP in current prices (millions of US dollars),732522.1094
+716,276,Germany,1995,GDP in current prices (millions of US dollars),2585619.317
+717,276,Germany,2005,GDP in current prices (millions of US dollars),2845731.98
+718,276,Germany,2010,GDP in current prices (millions of US dollars),3396354.076
+719,276,Germany,2015,GDP in current prices (millions of US dollars),3360549.974
+720,276,Germany,2017,GDP in current prices (millions of US dollars),3665804.121
+721,276,Germany,2018,GDP in current prices (millions of US dollars),3949548.834
+722,288,Ghana,1985,GDP in current prices (millions of US dollars),8747.801
+723,288,Ghana,1995,GDP in current prices (millions of US dollars),13713.9309
+724,288,Ghana,2005,GDP in current prices (millions of US dollars),22764.8335
+725,288,Ghana,2010,GDP in current prices (millions of US dollars),42587.4188
+726,288,Ghana,2015,GDP in current prices (millions of US dollars),49181.5196
+727,288,Ghana,2017,GDP in current prices (millions of US dollars),58994.8552
+728,288,Ghana,2018,GDP in current prices (millions of US dollars),65534.7873
+729,300,Greece,1985,GDP in current prices (millions of US dollars),47816.3125
+730,300,Greece,1995,GDP in current prices (millions of US dollars),136886.1591
+731,300,Greece,2005,GDP in current prices (millions of US dollars),247776.839
+732,300,Greece,2010,GDP in current prices (millions of US dollars),299361.5766
+733,300,Greece,2015,GDP in current prices (millions of US dollars),196590.959
+734,300,Greece,2017,GDP in current prices (millions of US dollars),203588.8823
+735,300,Greece,2018,GDP in current prices (millions of US dollars),218138.8313
+736,304,Greenland,1985,GDP in current prices (millions of US dollars),451.1719
+737,304,Greenland,1995,GDP in current prices (millions of US dollars),1321.0874
+738,304,Greenland,2005,GDP in current prices (millions of US dollars),1849.8026
+739,304,Greenland,2010,GDP in current prices (millions of US dollars),2503.1672
+740,304,Greenland,2015,GDP in current prices (millions of US dollars),2499.1131
+741,304,Greenland,2017,GDP in current prices (millions of US dollars),2826.6547
+742,304,Greenland,2018,GDP in current prices (millions of US dollars),3051.6173
+743,308,Grenada,1985,GDP in current prices (millions of US dollars),135.7899
+744,308,Grenada,1995,GDP in current prices (millions of US dollars),278.2367
+745,308,Grenada,2005,GDP in current prices (millions of US dollars),695.3704
+746,308,Grenada,2010,GDP in current prices (millions of US dollars),771.0148
+747,308,Grenada,2015,GDP in current prices (millions of US dollars),997.0079
+748,308,Grenada,2017,GDP in current prices (millions of US dollars),1125.6856
+749,308,Grenada,2018,GDP in current prices (millions of US dollars),1168.6962
+750,320,Guatemala,1985,GDP in current prices (millions of US dollars),9966.709
+751,320,Guatemala,1995,GDP in current prices (millions of US dollars),13065.577
+752,320,Guatemala,2005,GDP in current prices (millions of US dollars),27211.2195
+753,320,Guatemala,2010,GDP in current prices (millions of US dollars),41338.1588
+754,320,Guatemala,2015,GDP in current prices (millions of US dollars),63767.4719
+755,320,Guatemala,2017,GDP in current prices (millions of US dollars),75619.6865
+756,320,Guatemala,2018,GDP in current prices (millions of US dollars),78460.8122
+757,324,Guinea,1985,GDP in current prices (millions of US dollars),2849.591
+758,324,Guinea,1995,GDP in current prices (millions of US dollars),5260.1543
+759,324,Guinea,2005,GDP in current prices (millions of US dollars),4063.117
+760,324,Guinea,2010,GDP in current prices (millions of US dollars),6853.4678
+761,324,Guinea,2015,GDP in current prices (millions of US dollars),8794.2024
+762,324,Guinea,2017,GDP in current prices (millions of US dollars),9914.9625
+763,324,Guinea,2018,GDP in current prices (millions of US dollars),11639.603
+764,624,Guinea-Bissau,1985,GDP in current prices (millions of US dollars),415.3003
+765,624,Guinea-Bissau,1995,GDP in current prices (millions of US dollars),799.7972
+766,624,Guinea-Bissau,2005,GDP in current prices (millions of US dollars),586.7956
+767,624,Guinea-Bissau,2010,GDP in current prices (millions of US dollars),849.0501
+768,624,Guinea-Bissau,2015,GDP in current prices (millions of US dollars),1047.4367
+769,624,Guinea-Bissau,2017,GDP in current prices (millions of US dollars),1350.177
+770,624,Guinea-Bissau,2018,GDP in current prices (millions of US dollars),1458.8684
+771,328,Guyana,1985,GDP in current prices (millions of US dollars),736.6175
+772,328,Guyana,1995,GDP in current prices (millions of US dollars),991.3838
+773,328,Guyana,2005,GDP in current prices (millions of US dollars),1315.4385
+774,328,Guyana,2010,GDP in current prices (millions of US dollars),2259.2903
+775,328,Guyana,2015,GDP in current prices (millions of US dollars),3179.1041
+776,328,Guyana,2017,GDP in current prices (millions of US dollars),3555.2081
+777,328,Guyana,2018,GDP in current prices (millions of US dollars),3817.7176
+778,332,Haiti,1985,GDP in current prices (millions of US dollars),2664.8526
+779,332,Haiti,1995,GDP in current prices (millions of US dollars),2695.5406
+780,332,Haiti,2005,GDP in current prices (millions of US dollars),4046.6398
+781,332,Haiti,2010,GDP in current prices (millions of US dollars),6707.7782
+782,332,Haiti,2015,GDP in current prices (millions of US dollars),8354.8462
+783,332,Haiti,2017,GDP in current prices (millions of US dollars),8521.1321
+784,332,Haiti,2018,GDP in current prices (millions of US dollars),9287.2662
+785,340,Honduras,1985,GDP in current prices (millions of US dollars),4341.8739
+786,340,Honduras,1995,GDP in current prices (millions of US dollars),4724.4644
+787,340,Honduras,2005,GDP in current prices (millions of US dollars),9757.0129
+788,340,Honduras,2010,GDP in current prices (millions of US dollars),15839.3446
+789,340,Honduras,2015,GDP in current prices (millions of US dollars),20979.7917
+790,340,Honduras,2017,GDP in current prices (millions of US dollars),23100.7817
+791,340,Honduras,2018,GDP in current prices (millions of US dollars),23969.8579
+792,348,Hungary,1985,GDP in current prices (millions of US dollars),23712.8955
+793,348,Hungary,1995,GDP in current prices (millions of US dollars),46438.708
+794,348,Hungary,2005,GDP in current prices (millions of US dollars),112980.9477
+795,348,Hungary,2010,GDP in current prices (millions of US dollars),131135.5612
+796,348,Hungary,2015,GDP in current prices (millions of US dollars),124529.7414
+797,348,Hungary,2017,GDP in current prices (millions of US dollars),141510.583
+798,348,Hungary,2018,GDP in current prices (millions of US dollars),157882.9128
+799,352,Iceland,1985,GDP in current prices (millions of US dollars),2939.8474
+800,352,Iceland,1995,GDP in current prices (millions of US dollars),7018.1038
+801,352,Iceland,2005,GDP in current prices (millions of US dollars),16812.5388
+802,352,Iceland,2010,GDP in current prices (millions of US dollars),13683.6897
+803,352,Iceland,2015,GDP in current prices (millions of US dollars),17389.1016
+804,352,Iceland,2017,GDP in current prices (millions of US dollars),24493.0356
+805,352,Iceland,2018,GDP in current prices (millions of US dollars),25882.2188
+806,356,India,1985,GDP in current prices (millions of US dollars),230042.7168
+807,356,India,1995,GDP in current prices (millions of US dollars),371782.7198
+808,356,India,2005,GDP in current prices (millions of US dollars),823611.578
+809,356,India,2010,GDP in current prices (millions of US dollars),1669619.772
+810,356,India,2015,GDP in current prices (millions of US dollars),2146758.608
+811,356,India,2017,GDP in current prices (millions of US dollars),2625091.065
+812,356,India,2018,GDP in current prices (millions of US dollars),2779351.533
+813,360,Indonesia,1985,GDP in current prices (millions of US dollars),102170.6835
+814,360,Indonesia,1995,GDP in current prices (millions of US dollars),236456.0375
+815,360,Indonesia,2005,GDP in current prices (millions of US dollars),304371.8518
+816,360,Indonesia,2010,GDP in current prices (millions of US dollars),755094.1576
+817,360,Indonesia,2015,GDP in current prices (millions of US dollars),860854.2327
+818,360,Indonesia,2017,GDP in current prices (millions of US dollars),1015423.457
+819,360,Indonesia,2018,GDP in current prices (millions of US dollars),1042173.303
+820,364,Iran (Islamic Republic of),1985,GDP in current prices (millions of US dollars),76256.8759
+821,364,Iran (Islamic Republic of),1995,GDP in current prices (millions of US dollars),114364.4426
+822,364,Iran (Islamic Republic of),2005,GDP in current prices (millions of US dollars),226452.1425
+823,364,Iran (Islamic Republic of),2010,GDP in current prices (millions of US dollars),491098.6577
+824,364,Iran (Islamic Republic of),2015,GDP in current prices (millions of US dollars),393436.0648
+825,364,Iran (Islamic Republic of),2017,GDP in current prices (millions of US dollars),460976.1078
+826,364,Iran (Islamic Republic of),2018,GDP in current prices (millions of US dollars),473090.9681
+827,368,Iraq,1985,GDP in current prices (millions of US dollars),16877.5079
+828,368,Iraq,1995,GDP in current prices (millions of US dollars),4863.1429
+829,368,Iraq,2005,GDP in current prices (millions of US dollars),49954.8904
+830,368,Iraq,2010,GDP in current prices (millions of US dollars),138516.7226
+831,368,Iraq,2015,GDP in current prices (millions of US dollars),166774.1049
+832,368,Iraq,2017,GDP in current prices (millions of US dollars),190643.8982
+833,368,Iraq,2018,GDP in current prices (millions of US dollars),212271.8071
+834,372,Ireland,1985,GDP in current prices (millions of US dollars),21295.781
+835,372,Ireland,1995,GDP in current prices (millions of US dollars),69224.5797
+836,372,Ireland,2005,GDP in current prices (millions of US dollars),211643.7705
+837,372,Ireland,2010,GDP in current prices (millions of US dollars),222148.7613
+838,372,Ireland,2015,GDP in current prices (millions of US dollars),291499.812
+839,372,Ireland,2017,GDP in current prices (millions of US dollars),335663.1142
+840,372,Ireland,2018,GDP in current prices (millions of US dollars),382674.3606
+841,376,Israel,1985,GDP in current prices (millions of US dollars),27447.6349
+842,376,Israel,1995,GDP in current prices (millions of US dollars),100385.0795
+843,376,Israel,2005,GDP in current prices (millions of US dollars),142528.9116
+844,376,Israel,2010,GDP in current prices (millions of US dollars),233995.6779
+845,376,Israel,2015,GDP in current prices (millions of US dollars),299813.1226
+846,376,Israel,2017,GDP in current prices (millions of US dollars),353253.4084
+847,376,Israel,2018,GDP in current prices (millions of US dollars),370587.9785
+848,380,Italy,1985,GDP in current prices (millions of US dollars),452197.7591
+849,380,Italy,1995,GDP in current prices (millions of US dollars),1174698.698
+850,380,Italy,2005,GDP in current prices (millions of US dollars),1857478.113
+851,380,Italy,2010,GDP in current prices (millions of US dollars),2134017.843
+852,380,Italy,2015,GDP in current prices (millions of US dollars),1835899.237
+853,380,Italy,2017,GDP in current prices (millions of US dollars),1961806.364
+854,380,Italy,2018,GDP in current prices (millions of US dollars),2084882.364
+855,388,Jamaica,1985,GDP in current prices (millions of US dollars),2604.7406
+856,388,Jamaica,1995,GDP in current prices (millions of US dollars),6577.5207
+857,388,Jamaica,2005,GDP in current prices (millions of US dollars),11243.8591
+858,388,Jamaica,2010,GDP in current prices (millions of US dollars),13220.5458
+859,388,Jamaica,2015,GDP in current prices (millions of US dollars),14196.4603
+860,388,Jamaica,2017,GDP in current prices (millions of US dollars),14806.3357
+861,388,Jamaica,2018,GDP in current prices (millions of US dollars),15713.9143
+862,392,Japan,1985,GDP in current prices (millions of US dollars),1398892.549
+863,392,Japan,1995,GDP in current prices (millions of US dollars),5449117.512
+864,392,Japan,2005,GDP in current prices (millions of US dollars),4755410.128
+865,392,Japan,2010,GDP in current prices (millions of US dollars),5700098.115
+866,392,Japan,2015,GDP in current prices (millions of US dollars),4389475.623
+867,392,Japan,2017,GDP in current prices (millions of US dollars),4859950.559
+868,392,Japan,2018,GDP in current prices (millions of US dollars),4971323.08
+869,400,Jordan,1985,GDP in current prices (millions of US dollars),5172.7349
+870,400,Jordan,1995,GDP in current prices (millions of US dollars),6802.3655
+871,400,Jordan,2005,GDP in current prices (millions of US dollars),12720.089
+872,400,Jordan,2010,GDP in current prices (millions of US dollars),26519.613
+873,400,Jordan,2015,GDP in current prices (millions of US dollars),37922.6558
+874,400,Jordan,2017,GDP in current prices (millions of US dollars),40709.1549
+875,400,Jordan,2018,GDP in current prices (millions of US dollars),42230.9859
+876,398,Kazakhstan,1995,GDP in current prices (millions of US dollars),20561.5426
+877,398,Kazakhstan,2005,GDP in current prices (millions of US dollars),57123.6717
+878,398,Kazakhstan,2010,GDP in current prices (millions of US dollars),148047.3482
+879,398,Kazakhstan,2015,GDP in current prices (millions of US dollars),184388.4044
+880,398,Kazakhstan,2017,GDP in current prices (millions of US dollars),166805.789
+881,398,Kazakhstan,2018,GDP in current prices (millions of US dollars),179339.9775
+882,404,Kenya,1985,GDP in current prices (millions of US dollars),9110.3977
+883,404,Kenya,1995,GDP in current prices (millions of US dollars),13427.9944
+884,404,Kenya,2005,GDP in current prices (millions of US dollars),21505.5319
+885,404,Kenya,2010,GDP in current prices (millions of US dollars),39999.6776
+886,404,Kenya,2015,GDP in current prices (millions of US dollars),64007.7806
+887,404,Kenya,2017,GDP in current prices (millions of US dollars),78757.3789
+888,404,Kenya,2018,GDP in current prices (millions of US dollars),87905.6817
+889,296,Kiribati,1985,GDP in current prices (millions of US dollars),29.9753
+890,296,Kiribati,1995,GDP in current prices (millions of US dollars),55.9812
+891,296,Kiribati,2005,GDP in current prices (millions of US dollars),112.1362
+892,296,Kiribati,2010,GDP in current prices (millions of US dollars),156.126
+893,296,Kiribati,2015,GDP in current prices (millions of US dollars),169.1418
+894,296,Kiribati,2017,GDP in current prices (millions of US dollars),185.5785
+895,296,Kiribati,2018,GDP in current prices (millions of US dollars),188.5249
+896,412,Kosovo,1995,GDP in current prices (millions of US dollars),5303.7763
+897,412,Kosovo,2005,GDP in current prices (millions of US dollars),3679.7391
+898,412,Kosovo,2010,GDP in current prices (millions of US dollars),5830.0688
+899,412,Kosovo,2015,GDP in current prices (millions of US dollars),6440.3608
+900,412,Kosovo,2017,GDP in current prices (millions of US dollars),7245.618
+901,412,Kosovo,2018,GDP in current prices (millions of US dollars),7942.9973
+902,414,Kuwait,1985,GDP in current prices (millions of US dollars),21446.1523
+903,414,Kuwait,1995,GDP in current prices (millions of US dollars),26554.0644
+904,414,Kuwait,2005,GDP in current prices (millions of US dollars),80797.9452
+905,414,Kuwait,2010,GDP in current prices (millions of US dollars),115416.0475
+906,414,Kuwait,2015,GDP in current prices (millions of US dollars),114584.5703
+907,414,Kuwait,2017,GDP in current prices (millions of US dollars),119534.2505
+908,414,Kuwait,2018,GDP in current prices (millions of US dollars),141698.1437
+909,417,Kyrgyzstan,1995,GDP in current prices (millions of US dollars),1491.8937
+910,417,Kyrgyzstan,2005,GDP in current prices (millions of US dollars),2460.2468
+911,417,Kyrgyzstan,2010,GDP in current prices (millions of US dollars),4794.3618
+912,417,Kyrgyzstan,2015,GDP in current prices (millions of US dollars),6678.1775
+913,417,Kyrgyzstan,2017,GDP in current prices (millions of US dollars),7702.9384
+914,417,Kyrgyzstan,2018,GDP in current prices (millions of US dollars),8092.8342
+915,418,Lao People's Dem. Rep.,1985,GDP in current prices (millions of US dollars),626.1142
+916,418,Lao People's Dem. Rep.,1995,GDP in current prices (millions of US dollars),1852.4065
+917,418,Lao People's Dem. Rep.,2005,GDP in current prices (millions of US dollars),2946.3503
+918,418,Lao People's Dem. Rep.,2010,GDP in current prices (millions of US dollars),7313.4507
+919,418,Lao People's Dem. Rep.,2015,GDP in current prices (millions of US dollars),14390.4461
+920,418,Lao People's Dem. Rep.,2017,GDP in current prices (millions of US dollars),16853.1046
+921,418,Lao People's Dem. Rep.,2018,GDP in current prices (millions of US dollars),17953.8095
+922,428,Latvia,1995,GDP in current prices (millions of US dollars),5390.1361
+923,428,Latvia,2005,GDP in current prices (millions of US dollars),16908.9577
+924,428,Latvia,2010,GDP in current prices (millions of US dollars),23803.9036
+925,428,Latvia,2015,GDP in current prices (millions of US dollars),27090.0197
+926,428,Latvia,2017,GDP in current prices (millions of US dollars),30273.0075
+927,428,Latvia,2018,GDP in current prices (millions of US dollars),34426.0403
+928,422,Lebanon,1985,GDP in current prices (millions of US dollars),2275.4182
+929,422,Lebanon,1995,GDP in current prices (millions of US dollars),11505.9575
+930,422,Lebanon,2005,GDP in current prices (millions of US dollars),21489.9503
+931,422,Lebanon,2010,GDP in current prices (millions of US dollars),38419.6352
+932,422,Lebanon,2015,GDP in current prices (millions of US dollars),49973.8933
+933,422,Lebanon,2017,GDP in current prices (millions of US dollars),53393.7996
+934,422,Lebanon,2018,GDP in current prices (millions of US dollars),56409.4239
+935,426,Lesotho,1985,GDP in current prices (millions of US dollars),297.1829
+936,426,Lesotho,1995,GDP in current prices (millions of US dollars),955.4093
+937,426,Lesotho,2005,GDP in current prices (millions of US dollars),1559.6475
+938,426,Lesotho,2010,GDP in current prices (millions of US dollars),2385.9436
+939,426,Lesotho,2015,GDP in current prices (millions of US dollars),2464.5602
+940,426,Lesotho,2017,GDP in current prices (millions of US dollars),2578.7133
+941,426,Lesotho,2018,GDP in current prices (millions of US dollars),2631.2389
+942,430,Liberia,1985,GDP in current prices (millions of US dollars),1076.4363
+943,430,Liberia,1995,GDP in current prices (millions of US dollars),208.7242
+944,430,Liberia,2005,GDP in current prices (millions of US dollars),706.2326
+945,430,Liberia,2010,GDP in current prices (millions of US dollars),1292.0
+946,430,Liberia,2015,GDP in current prices (millions of US dollars),2074.5487
+947,430,Liberia,2017,GDP in current prices (millions of US dollars),2145.3687
+948,430,Liberia,2018,GDP in current prices (millions of US dollars),2121.5639
+949,434,Libya,1985,GDP in current prices (millions of US dollars),29887.0375
+950,434,Libya,1995,GDP in current prices (millions of US dollars),28292.4446
+951,434,Libya,2005,GDP in current prices (millions of US dollars),45451.4809
+952,434,Libya,2010,GDP in current prices (millions of US dollars),80942.4196
+953,434,Libya,2015,GDP in current prices (millions of US dollars),17665.6718
+954,434,Libya,2017,GDP in current prices (millions of US dollars),25120.2621
+955,434,Libya,2018,GDP in current prices (millions of US dollars),34376.7722
+956,438,Liechtenstein,1985,GDP in current prices (millions of US dollars),681.2998
+957,438,Liechtenstein,1995,GDP in current prices (millions of US dollars),2695.245
+958,438,Liechtenstein,2005,GDP in current prices (millions of US dollars),4046.1352
+959,438,Liechtenstein,2010,GDP in current prices (millions of US dollars),5621.0572
+960,438,Liechtenstein,2015,GDP in current prices (millions of US dollars),6268.5131
+961,438,Liechtenstein,2017,GDP in current prices (millions of US dollars),6552.9142
+962,438,Liechtenstein,2018,GDP in current prices (millions of US dollars),6795.6801
+963,440,Lithuania,1995,GDP in current prices (millions of US dollars),6702.3394
+964,440,Lithuania,2005,GDP in current prices (millions of US dollars),26141.4067
+965,440,Lithuania,2010,GDP in current prices (millions of US dollars),37034.4617
+966,440,Lithuania,2015,GDP in current prices (millions of US dollars),41392.3966
+967,440,Lithuania,2017,GDP in current prices (millions of US dollars),47750.9081
+968,440,Lithuania,2018,GDP in current prices (millions of US dollars),53455.17
+969,442,Luxembourg,1985,GDP in current prices (millions of US dollars),4738.4239
+970,442,Luxembourg,1995,GDP in current prices (millions of US dollars),21588.4504
+971,442,Luxembourg,2005,GDP in current prices (millions of US dollars),37346.4657
+972,442,Luxembourg,2010,GDP in current prices (millions of US dollars),53212.4768
+973,442,Luxembourg,2015,GDP in current prices (millions of US dollars),57744.458
+974,442,Luxembourg,2017,GDP in current prices (millions of US dollars),64181.9447
+975,442,Luxembourg,2018,GDP in current prices (millions of US dollars),70919.958
+976,450,Madagascar,1985,GDP in current prices (millions of US dollars),2747.9576
+977,450,Madagascar,1995,GDP in current prices (millions of US dollars),3668.3415
+978,450,Madagascar,2005,GDP in current prices (millions of US dollars),5849.4357
+979,450,Madagascar,2010,GDP in current prices (millions of US dollars),9982.7113
+980,450,Madagascar,2015,GDP in current prices (millions of US dollars),11323.0207
+981,450,Madagascar,2017,GDP in current prices (millions of US dollars),13176.3136
+982,450,Madagascar,2018,GDP in current prices (millions of US dollars),13850.6541
+983,454,Malawi,1985,GDP in current prices (millions of US dollars),2027.7573
+984,454,Malawi,1995,GDP in current prices (millions of US dollars),2473.6572
+985,454,Malawi,2005,GDP in current prices (millions of US dollars),3655.8898
+986,454,Malawi,2010,GDP in current prices (millions of US dollars),6959.6576
+987,454,Malawi,2015,GDP in current prices (millions of US dollars),6431.4161
+988,454,Malawi,2017,GDP in current prices (millions of US dollars),6347.7175
+989,454,Malawi,2018,GDP in current prices (millions of US dollars),7196.1708
+990,458,Malaysia,1985,GDP in current prices (millions of US dollars),31199.6375
+991,458,Malaysia,1995,GDP in current prices (millions of US dollars),88832.7064
+992,458,Malaysia,2005,GDP in current prices (millions of US dollars),143534.4185
+993,458,Malaysia,2010,GDP in current prices (millions of US dollars),255017.6452
+994,458,Malaysia,2015,GDP in current prices (millions of US dollars),301354.7358
+995,458,Malaysia,2017,GDP in current prices (millions of US dollars),318955.2046
+996,458,Malaysia,2018,GDP in current prices (millions of US dollars),358579.2653
+997,462,Maldives,1985,GDP in current prices (millions of US dollars),166.013
+998,462,Maldives,1995,GDP in current prices (millions of US dollars),566.3463
+999,462,Maldives,2005,GDP in current prices (millions of US dollars),1163.3624
+1000,462,Maldives,2010,GDP in current prices (millions of US dollars),2588.1761
+1001,462,Maldives,2015,GDP in current prices (millions of US dollars),4109.4165
+1002,462,Maldives,2017,GDP in current prices (millions of US dollars),4735.9997
+1003,462,Maldives,2018,GDP in current prices (millions of US dollars),5327.4442
+1004,466,Mali,1985,GDP in current prices (millions of US dollars),1260.3392
+1005,466,Mali,1995,GDP in current prices (millions of US dollars),2836.906
+1006,466,Mali,2005,GDP in current prices (millions of US dollars),6245.0312
+1007,466,Mali,2010,GDP in current prices (millions of US dollars),10678.749
+1008,466,Mali,2015,GDP in current prices (millions of US dollars),13094.8465
+1009,466,Mali,2017,GDP in current prices (millions of US dollars),15375.7204
+1010,466,Mali,2018,GDP in current prices (millions of US dollars),17171.8166
+1011,470,Malta,1985,GDP in current prices (millions of US dollars),1156.1281
+1012,470,Malta,1995,GDP in current prices (millions of US dollars),3697.3238
+1013,470,Malta,2005,GDP in current prices (millions of US dollars),6393.1146
+1014,470,Malta,2010,GDP in current prices (millions of US dollars),8740.5392
+1015,470,Malta,2015,GDP in current prices (millions of US dollars),10702.3835
+1016,470,Malta,2017,GDP in current prices (millions of US dollars),12780.4221
+1017,470,Malta,2018,GDP in current prices (millions of US dollars),14549.1234
+1018,584,Marshall Islands,1985,GDP in current prices (millions of US dollars),44.2896
+1019,584,Marshall Islands,1995,GDP in current prices (millions of US dollars),121.3549
+1020,584,Marshall Islands,2005,GDP in current prices (millions of US dollars),140.2811
+1021,584,Marshall Islands,2010,GDP in current prices (millions of US dollars),168.3134
+1022,584,Marshall Islands,2015,GDP in current prices (millions of US dollars),181.4621
+1023,584,Marshall Islands,2017,GDP in current prices (millions of US dollars),207.7498
+1024,584,Marshall Islands,2018,GDP in current prices (millions of US dollars),214.1945
+1025,478,Mauritania,1985,GDP in current prices (millions of US dollars),1394.8799
+1026,478,Mauritania,1995,GDP in current prices (millions of US dollars),2160.7761
+1027,478,Mauritania,2005,GDP in current prices (millions of US dollars),2808.3652
+1028,478,Mauritania,2010,GDP in current prices (millions of US dollars),5449.7047
+1029,478,Mauritania,2015,GDP in current prices (millions of US dollars),6320.6563
+1030,478,Mauritania,2017,GDP in current prices (millions of US dollars),7062.5989
+1031,478,Mauritania,2018,GDP in current prices (millions of US dollars),7619.6644
+1032,480,Mauritius,1985,GDP in current prices (millions of US dollars),1151.5502
+1033,480,Mauritius,1995,GDP in current prices (millions of US dollars),4272.6609
+1034,480,Mauritius,2005,GDP in current prices (millions of US dollars),6775.2785
+1035,480,Mauritius,2010,GDP in current prices (millions of US dollars),10003.6707
+1036,480,Mauritius,2015,GDP in current prices (millions of US dollars),11692.2871
+1037,480,Mauritius,2017,GDP in current prices (millions of US dollars),13259.3482
+1038,480,Mauritius,2018,GDP in current prices (millions of US dollars),14220.3277
+1039,484,Mexico,1985,GDP in current prices (millions of US dollars),224592.6212
+1040,484,Mexico,1995,GDP in current prices (millions of US dollars),360072.507
+1041,484,Mexico,2005,GDP in current prices (millions of US dollars),877476.8924
+1042,484,Mexico,2010,GDP in current prices (millions of US dollars),1057800.598
+1043,484,Mexico,2015,GDP in current prices (millions of US dollars),1170567.082
+1044,484,Mexico,2017,GDP in current prices (millions of US dollars),1158229.075
+1045,484,Mexico,2018,GDP in current prices (millions of US dollars),1223400.956
+1046,583,Micronesia (Fed. States of),1985,GDP in current prices (millions of US dollars),108.1
+1047,583,Micronesia (Fed. States of),1995,GDP in current prices (millions of US dollars),221.8538
+1048,583,Micronesia (Fed. States of),2005,GDP in current prices (millions of US dollars),250.644
+1049,583,Micronesia (Fed. States of),2010,GDP in current prices (millions of US dollars),296.8
+1050,583,Micronesia (Fed. States of),2015,GDP in current prices (millions of US dollars),315.1
+1051,583,Micronesia (Fed. States of),2017,GDP in current prices (millions of US dollars),362.6
+1052,583,Micronesia (Fed. States of),2018,GDP in current prices (millions of US dollars),371.3024
+1053,492,Monaco,1985,GDP in current prices (millions of US dollars),1058.9368
+1054,492,Monaco,1995,GDP in current prices (millions of US dollars),3070.3625
+1055,492,Monaco,2005,GDP in current prices (millions of US dollars),4202.9759
+1056,492,Monaco,2010,GDP in current prices (millions of US dollars),5362.3495
+1057,492,Monaco,2015,GDP in current prices (millions of US dollars),6259.1307
+1058,492,Monaco,2017,GDP in current prices (millions of US dollars),6431.2749
+1059,492,Monaco,2018,GDP in current prices (millions of US dollars),7188.4701
+1060,496,Mongolia,1985,GDP in current prices (millions of US dollars),1215.6367
+1061,496,Mongolia,1995,GDP in current prices (millions of US dollars),1677.6098
+1062,496,Mongolia,2005,GDP in current prices (millions of US dollars),2925.9591
+1063,496,Mongolia,2010,GDP in current prices (millions of US dollars),7189.4832
+1064,496,Mongolia,2015,GDP in current prices (millions of US dollars),11749.6281
+1065,496,Mongolia,2017,GDP in current prices (millions of US dollars),11433.6357
+1066,496,Mongolia,2018,GDP in current prices (millions of US dollars),13009.5749
+1067,499,Montenegro,1995,GDP in current prices (millions of US dollars),1214.8995
+1068,499,Montenegro,2005,GDP in current prices (millions of US dollars),2278.7569
+1069,499,Montenegro,2010,GDP in current prices (millions of US dollars),4138.9589
+1070,499,Montenegro,2015,GDP in current prices (millions of US dollars),4053.0845
+1071,499,Montenegro,2017,GDP in current prices (millions of US dollars),4856.6123
+1072,499,Montenegro,2018,GDP in current prices (millions of US dollars),5506.9444
+1073,500,Montserrat,1985,GDP in current prices (millions of US dollars),43.6023
+1074,500,Montserrat,1995,GDP in current prices (millions of US dollars),68.8471
+1075,500,Montserrat,2005,GDP in current prices (millions of US dollars),48.8741
+1076,500,Montserrat,2010,GDP in current prices (millions of US dollars),55.5111
+1077,500,Montserrat,2015,GDP in current prices (millions of US dollars),61.3815
+1078,500,Montserrat,2017,GDP in current prices (millions of US dollars),59.9593
+1079,500,Montserrat,2018,GDP in current prices (millions of US dollars),63.6788
+1080,504,Morocco,1985,GDP in current prices (millions of US dollars),15111.2184
+1081,504,Morocco,1995,GDP in current prices (millions of US dollars),38727.7024
+1082,504,Morocco,2005,GDP in current prices (millions of US dollars),62544.742
+1083,504,Morocco,2010,GDP in current prices (millions of US dollars),93217.222
+1084,504,Morocco,2015,GDP in current prices (millions of US dollars),101179.3078
+1085,504,Morocco,2017,GDP in current prices (millions of US dollars),109714.3244
+1086,504,Morocco,2018,GDP in current prices (millions of US dollars),117921.364
+1087,508,Mozambique,1985,GDP in current prices (millions of US dollars),8874.5669
+1088,508,Mozambique,1995,GDP in current prices (millions of US dollars),2816.6819
+1089,508,Mozambique,2005,GDP in current prices (millions of US dollars),8459.2789
+1090,508,Mozambique,2010,GDP in current prices (millions of US dollars),11121.1663
+1091,508,Mozambique,2015,GDP in current prices (millions of US dollars),15950.9789
+1092,508,Mozambique,2017,GDP in current prices (millions of US dollars),13219.0796
+1093,508,Mozambique,2018,GDP in current prices (millions of US dollars),14716.7572
+1094,104,Myanmar,1985,GDP in current prices (millions of US dollars),6606.524
+1095,104,Myanmar,1995,GDP in current prices (millions of US dollars),7762.8033
+1096,104,Myanmar,2005,GDP in current prices (millions of US dollars),11930.8286
+1097,104,Myanmar,2010,GDP in current prices (millions of US dollars),41444.9231
+1098,104,Myanmar,2015,GDP in current prices (millions of US dollars),62543.4909
+1099,104,Myanmar,2017,GDP in current prices (millions of US dollars),66490.5136
+1100,104,Myanmar,2018,GDP in current prices (millions of US dollars),72744.9879
+1101,516,Namibia,1985,GDP in current prices (millions of US dollars),1605.9297
+1102,516,Namibia,1995,GDP in current prices (millions of US dollars),3942.4945
+1103,516,Namibia,2005,GDP in current prices (millions of US dollars),7121.3602
+1104,516,Namibia,2010,GDP in current prices (millions of US dollars),11282.1588
+1105,516,Namibia,2015,GDP in current prices (millions of US dollars),11650.6378
+1106,516,Namibia,2017,GDP in current prices (millions of US dollars),13566.1921
+1107,516,Namibia,2018,GDP in current prices (millions of US dollars),14518.5935
+1108,520,Nauru,1985,GDP in current prices (millions of US dollars),33.0432
+1109,520,Nauru,1995,GDP in current prices (millions of US dollars),34.8553
+1110,520,Nauru,2005,GDP in current prices (millions of US dollars),26.293
+1111,520,Nauru,2010,GDP in current prices (millions of US dollars),59.2772
+1112,520,Nauru,2015,GDP in current prices (millions of US dollars),104.3532
+1113,520,Nauru,2017,GDP in current prices (millions of US dollars),133.7939
+1114,520,Nauru,2018,GDP in current prices (millions of US dollars),126.7154
+1115,524,Nepal,1985,GDP in current prices (millions of US dollars),2740.9698
+1116,524,Nepal,1995,GDP in current prices (millions of US dollars),4534.4189
+1117,524,Nepal,2005,GDP in current prices (millions of US dollars),8258.8293
+1118,524,Nepal,2010,GDP in current prices (millions of US dollars),16280.8025
+1119,524,Nepal,2015,GDP in current prices (millions of US dollars),20801.2031
+1120,524,Nepal,2017,GDP in current prices (millions of US dollars),25587.4535
+1121,524,Nepal,2018,GDP in current prices (millions of US dollars),27830.3961
+1122,528,Netherlands,1985,GDP in current prices (millions of US dollars),143847.1963
+1123,528,Netherlands,1995,GDP in current prices (millions of US dollars),452286.986
+1124,528,Netherlands,2005,GDP in current prices (millions of US dollars),685075.6106
+1125,528,Netherlands,2010,GDP in current prices (millions of US dollars),846554.8949
+1126,528,Netherlands,2015,GDP in current prices (millions of US dollars),765264.9498
+1127,528,Netherlands,2017,GDP in current prices (millions of US dollars),833869.6417
+1128,528,Netherlands,2018,GDP in current prices (millions of US dollars),914104.8478
+1129,530,Netherlands Antilles [former],1985,GDP in current prices (millions of US dollars),1189.8898
+1130,530,Netherlands Antilles [former],1995,GDP in current prices (millions of US dollars),2571.3133
+1131,530,Netherlands Antilles [former],2005,GDP in current prices (millions of US dollars),3052.5921
+1132,530,Netherlands Antilles [former],2010,GDP in current prices (millions of US dollars),3847.8348
+1133,540,New Caledonia,1985,GDP in current prices (millions of US dollars),854.8209
+1134,540,New Caledonia,1995,GDP in current prices (millions of US dollars),3628.4407
+1135,540,New Caledonia,2005,GDP in current prices (millions of US dollars),6236.147
+1136,540,New Caledonia,2010,GDP in current prices (millions of US dollars),9355.2224
+1137,540,New Caledonia,2015,GDP in current prices (millions of US dollars),8772.3674
+1138,540,New Caledonia,2017,GDP in current prices (millions of US dollars),9458.7509
+1139,540,New Caledonia,2018,GDP in current prices (millions of US dollars),10173.5016
+1140,554,New Zealand,1985,GDP in current prices (millions of US dollars),24107.7706
+1141,554,New Zealand,1995,GDP in current prices (millions of US dollars),63151.4361
+1142,554,New Zealand,2005,GDP in current prices (millions of US dollars),114720.8654
+1143,554,New Zealand,2010,GDP in current prices (millions of US dollars),146583.8315
+1144,554,New Zealand,2015,GDP in current prices (millions of US dollars),177467.5291
+1145,554,New Zealand,2017,GDP in current prices (millions of US dollars),205415.8649
+1146,554,New Zealand,2018,GDP in current prices (millions of US dollars),207920.614
+1147,558,Nicaragua,1985,GDP in current prices (millions of US dollars),3605.4119
+1148,558,Nicaragua,1995,GDP in current prices (millions of US dollars),4118.084
+1149,558,Nicaragua,2005,GDP in current prices (millions of US dollars),6300.2515
+1150,558,Nicaragua,2010,GDP in current prices (millions of US dollars),8758.6024
+1151,558,Nicaragua,2015,GDP in current prices (millions of US dollars),12756.6963
+1152,558,Nicaragua,2017,GDP in current prices (millions of US dollars),13843.5867
+1153,558,Nicaragua,2018,GDP in current prices (millions of US dollars),13117.8592
+1154,562,Niger,1985,GDP in current prices (millions of US dollars),2039.9857
+1155,562,Niger,1995,GDP in current prices (millions of US dollars),2380.4206
+1156,562,Niger,2005,GDP in current prices (millions of US dollars),4489.3779
+1157,562,Niger,2010,GDP in current prices (millions of US dollars),7620.3161
+1158,562,Niger,2015,GDP in current prices (millions of US dollars),9659.3403
+1159,562,Niger,2017,GDP in current prices (millions of US dollars),11170.0548
+1160,562,Niger,2018,GDP in current prices (millions of US dollars),12820.9951
+1161,566,Nigeria,1985,GDP in current prices (millions of US dollars),210154.4562
+1162,566,Nigeria,1995,GDP in current prices (millions of US dollars),50486.4201
+1163,566,Nigeria,2005,GDP in current prices (millions of US dollars),176134.0424
+1164,566,Nigeria,2010,GDP in current prices (millions of US dollars),363359.8258
+1165,566,Nigeria,2015,GDP in current prices (millions of US dollars),494582.6039
+1166,566,Nigeria,2017,GDP in current prices (millions of US dollars),375769.7194
+1167,566,Nigeria,2018,GDP in current prices (millions of US dollars),421821.3194
+1168,807,North Macedonia,1995,GDP in current prices (millions of US dollars),4707.0296
+1169,807,North Macedonia,2005,GDP in current prices (millions of US dollars),6258.6117
+1170,807,North Macedonia,2010,GDP in current prices (millions of US dollars),9407.1601
+1171,807,North Macedonia,2015,GDP in current prices (millions of US dollars),10064.513
+1172,807,North Macedonia,2017,GDP in current prices (millions of US dollars),11307.067
+1173,807,North Macedonia,2018,GDP in current prices (millions of US dollars),12628.8528
+1174,578,Norway,1985,GDP in current prices (millions of US dollars),65416.6263
+1175,578,Norway,1995,GDP in current prices (millions of US dollars),152030.6522
+1176,578,Norway,2005,GDP in current prices (millions of US dollars),308884.2841
+1177,578,Norway,2010,GDP in current prices (millions of US dollars),428757.0385
+1178,578,Norway,2015,GDP in current prices (millions of US dollars),385801.5501
+1179,578,Norway,2017,GDP in current prices (millions of US dollars),398393.9553
+1180,578,Norway,2018,GDP in current prices (millions of US dollars),434166.6154
+1181,512,Oman,1985,GDP in current prices (millions of US dollars),10280.6273
+1182,512,Oman,1995,GDP in current prices (millions of US dollars),13650.0773
+1183,512,Oman,2005,GDP in current prices (millions of US dollars),31081.9917
+1184,512,Oman,2010,GDP in current prices (millions of US dollars),56913.0658
+1185,512,Oman,2015,GDP in current prices (millions of US dollars),65480.5072
+1186,512,Oman,2017,GDP in current prices (millions of US dollars),79276.7476
+1187,512,Oman,2018,GDP in current prices (millions of US dollars),92111.474
+1188,586,Pakistan,1985,GDP in current prices (millions of US dollars),38840.3623
+1189,586,Pakistan,1995,GDP in current prices (millions of US dollars),77266.0918
+1190,586,Pakistan,2005,GDP in current prices (millions of US dollars),117708.4046
+1191,586,Pakistan,2010,GDP in current prices (millions of US dollars),174507.9237
+1192,586,Pakistan,2015,GDP in current prices (millions of US dollars),267035.2924
+1193,586,Pakistan,2017,GDP in current prices (millions of US dollars),303091.9432
+1194,586,Pakistan,2018,GDP in current prices (millions of US dollars),282345.6097
+1195,585,Palau,1985,GDP in current prices (millions of US dollars),41.1728
+1196,585,Palau,1995,GDP in current prices (millions of US dollars),110.3906
+1197,585,Palau,2005,GDP in current prices (millions of US dollars),184.4688
+1198,585,Palau,2010,GDP in current prices (millions of US dollars),183.4988
+1199,585,Palau,2015,GDP in current prices (millions of US dollars),280.3761
+1200,585,Palau,2017,GDP in current prices (millions of US dollars),286.3218
+1201,585,Palau,2018,GDP in current prices (millions of US dollars),283.9949
+1202,591,Panama,1985,GDP in current prices (millions of US dollars),5817.4979
+1203,591,Panama,1995,GDP in current prices (millions of US dollars),9187.7188
+1204,591,Panama,2005,GDP in current prices (millions of US dollars),15714.0943
+1205,591,Panama,2010,GDP in current prices (millions of US dollars),29440.2876
+1206,591,Panama,2015,GDP in current prices (millions of US dollars),54091.7138
+1207,591,Panama,2017,GDP in current prices (millions of US dollars),62283.7566
+1208,591,Panama,2018,GDP in current prices (millions of US dollars),65055.0805
+1209,598,Papua New Guinea,1985,GDP in current prices (millions of US dollars),3681.537
+1210,598,Papua New Guinea,1995,GDP in current prices (millions of US dollars),7273.5837
+1211,598,Papua New Guinea,2005,GDP in current prices (millions of US dollars),7312.2848
+1212,598,Papua New Guinea,2010,GDP in current prices (millions of US dollars),14250.7569
+1213,598,Papua New Guinea,2015,GDP in current prices (millions of US dollars),22961.5417
+1214,598,Papua New Guinea,2017,GDP in current prices (millions of US dollars),22005.8504
+1215,598,Papua New Guinea,2018,GDP in current prices (millions of US dollars),23077.2121
+1216,600,Paraguay,1985,GDP in current prices (millions of US dollars),5199.5134
+1217,600,Paraguay,1995,GDP in current prices (millions of US dollars),10440.2413
+1218,600,Paraguay,2005,GDP in current prices (millions of US dollars),11306.2232
+1219,600,Paraguay,2010,GDP in current prices (millions of US dollars),27239.0539
+1220,600,Paraguay,2015,GDP in current prices (millions of US dollars),36164.0688
+1221,600,Paraguay,2017,GDP in current prices (millions of US dollars),39008.9007
+1222,600,Paraguay,2018,GDP in current prices (millions of US dollars),40307.4506
+1223,604,Peru,1985,GDP in current prices (millions of US dollars),14529.4231
+1224,604,Peru,1995,GDP in current prices (millions of US dollars),53371.1539
+1225,604,Peru,2005,GDP in current prices (millions of US dollars),76080.4145
+1226,604,Peru,2010,GDP in current prices (millions of US dollars),147527.6315
+1227,604,Peru,2015,GDP in current prices (millions of US dollars),189756.7999
+1228,604,Peru,2017,GDP in current prices (millions of US dollars),210715.9715
+1229,604,Peru,2018,GDP in current prices (millions of US dollars),222237.3883
+1230,608,Philippines,1985,GDP in current prices (millions of US dollars),34052.1322
+1231,608,Philippines,1995,GDP in current prices (millions of US dollars),82121.2717
+1232,608,Philippines,2005,GDP in current prices (millions of US dollars),103071.5977
+1233,608,Philippines,2010,GDP in current prices (millions of US dollars),199590.9337
+1234,608,Philippines,2015,GDP in current prices (millions of US dollars),292773.842
+1235,608,Philippines,2017,GDP in current prices (millions of US dollars),313619.6246
+1236,608,Philippines,2018,GDP in current prices (millions of US dollars),330910.1554
+1237,616,Poland,1985,GDP in current prices (millions of US dollars),73333.3055
+1238,616,Poland,1995,GDP in current prices (millions of US dollars),142138.2965
+1239,616,Poland,2005,GDP in current prices (millions of US dollars),306126.7508
+1240,616,Poland,2010,GDP in current prices (millions of US dollars),479321.4606
+1241,616,Poland,2015,GDP in current prices (millions of US dollars),477581.3768
+1242,616,Poland,2017,GDP in current prices (millions of US dollars),526376.1686
+1243,616,Poland,2018,GDP in current prices (millions of US dollars),585661.1122
+1244,620,Portugal,1985,GDP in current prices (millions of US dollars),27115.0091
+1245,620,Portugal,1995,GDP in current prices (millions of US dollars),118120.2525
+1246,620,Portugal,2005,GDP in current prices (millions of US dollars),197175.4266
+1247,620,Portugal,2010,GDP in current prices (millions of US dollars),237880.9083
+1248,620,Portugal,2015,GDP in current prices (millions of US dollars),199313.8943
+1249,620,Portugal,2017,GDP in current prices (millions of US dollars),221357.8747
+1250,620,Portugal,2018,GDP in current prices (millions of US dollars),240792.1098
+1251,630,Puerto Rico,1985,GDP in current prices (millions of US dollars),20574.1697
+1252,630,Puerto Rico,1995,GDP in current prices (millions of US dollars),43246.42
+1253,630,Puerto Rico,2005,GDP in current prices (millions of US dollars),83914.5213
+1254,630,Puerto Rico,2010,GDP in current prices (millions of US dollars),98381.3
+1255,630,Puerto Rico,2015,GDP in current prices (millions of US dollars),103375.5
+1256,630,Puerto Rico,2017,GDP in current prices (millions of US dollars),104250.2
+1257,630,Puerto Rico,2018,GDP in current prices (millions of US dollars),101130.9
+1258,634,Qatar,1985,GDP in current prices (millions of US dollars),6153.2967
+1259,634,Qatar,1995,GDP in current prices (millions of US dollars),8137.9121
+1260,634,Qatar,2005,GDP in current prices (millions of US dollars),44530.4995
+1261,634,Qatar,2010,GDP in current prices (millions of US dollars),125122.3694
+1262,634,Qatar,2015,GDP in current prices (millions of US dollars),161739.9556
+1263,634,Qatar,2017,GDP in current prices (millions of US dollars),166928.6899
+1264,634,Qatar,2018,GDP in current prices (millions of US dollars),191362.0879
+1265,410,Republic of Korea,1985,GDP in current prices (millions of US dollars),102869.9366
+1266,410,Republic of Korea,1995,GDP in current prices (millions of US dollars),570530.9554
+1267,410,Republic of Korea,2005,GDP in current prices (millions of US dollars),934901.1018
+1268,410,Republic of Korea,2010,GDP in current prices (millions of US dollars),1144066.977
+1269,410,Republic of Korea,2015,GDP in current prices (millions of US dollars),1465773.246
+1270,410,Republic of Korea,2017,GDP in current prices (millions of US dollars),1623901.466
+1271,410,Republic of Korea,2018,GDP in current prices (millions of US dollars),1720488.934
+1272,498,Republic of Moldova,1995,GDP in current prices (millions of US dollars),2120.5477
+1273,498,Republic of Moldova,2005,GDP in current prices (millions of US dollars),3586.5315
+1274,498,Republic of Moldova,2010,GDP in current prices (millions of US dollars),6974.9824
+1275,498,Republic of Moldova,2015,GDP in current prices (millions of US dollars),7745.2419
+1276,498,Republic of Moldova,2017,GDP in current prices (millions of US dollars),9669.7418
+1277,498,Republic of Moldova,2018,GDP in current prices (millions of US dollars),11309.1151
+1278,642,Romania,1985,GDP in current prices (millions of US dollars),50741.9688
+1279,642,Romania,1995,GDP in current prices (millions of US dollars),37656.9665
+1280,642,Romania,2005,GDP in current prices (millions of US dollars),98454.3745
+1281,642,Romania,2010,GDP in current prices (millions of US dollars),166225.1802
+1282,642,Romania,2015,GDP in current prices (millions of US dollars),177894.9322
+1283,642,Romania,2017,GDP in current prices (millions of US dollars),211695.8579
+1284,642,Romania,2018,GDP in current prices (millions of US dollars),239551.5038
+1285,643,Russian Federation,1995,GDP in current prices (millions of US dollars),402294.8374
+1286,643,Russian Federation,2005,GDP in current prices (millions of US dollars),771495.4233
+1287,643,Russian Federation,2010,GDP in current prices (millions of US dollars),1539845.082
+1288,643,Russian Federation,2015,GDP in current prices (millions of US dollars),1366030.807
+1289,643,Russian Federation,2017,GDP in current prices (millions of US dollars),1581442.648
+1290,643,Russian Federation,2018,GDP in current prices (millions of US dollars),1660514.169
+1291,646,Rwanda,1985,GDP in current prices (millions of US dollars),1812.7872
+1292,646,Rwanda,1995,GDP in current prices (millions of US dollars),1230.1199
+1293,646,Rwanda,2005,GDP in current prices (millions of US dollars),2581.4657
+1294,646,Rwanda,2010,GDP in current prices (millions of US dollars),5772.2888
+1295,646,Rwanda,2015,GDP in current prices (millions of US dollars),8277.6783
+1296,646,Rwanda,2017,GDP in current prices (millions of US dollars),9136.162
+1297,646,Rwanda,2018,GDP in current prices (millions of US dollars),9510.0019
+1298,659,Saint Kitts and Nevis,1985,GDP in current prices (millions of US dollars),111.0074
+1299,659,Saint Kitts and Nevis,1995,GDP in current prices (millions of US dollars),313.4852
+1300,659,Saint Kitts and Nevis,2005,GDP in current prices (millions of US dollars),547.2037
+1301,659,Saint Kitts and Nevis,2010,GDP in current prices (millions of US dollars),760.1704
+1302,659,Saint Kitts and Nevis,2015,GDP in current prices (millions of US dollars),923.1556
+1303,659,Saint Kitts and Nevis,2017,GDP in current prices (millions of US dollars),996.9444
+1304,659,Saint Kitts and Nevis,2018,GDP in current prices (millions of US dollars),1010.8222
+1305,662,Saint Lucia,1985,GDP in current prices (millions of US dollars),249.0719
+1306,662,Saint Lucia,1995,GDP in current prices (millions of US dollars),617.4652
+1307,662,Saint Lucia,2005,GDP in current prices (millions of US dollars),935.463
+1308,662,Saint Lucia,2010,GDP in current prices (millions of US dollars),1400.3609
+1309,662,Saint Lucia,2015,GDP in current prices (millions of US dollars),1659.1109
+1310,662,Saint Lucia,2017,GDP in current prices (millions of US dollars),1816.7287
+1311,662,Saint Lucia,2018,GDP in current prices (millions of US dollars),1921.8482
+1312,670,Saint Vincent & Grenadines,1985,GDP in current prices (millions of US dollars),133.372
+1313,670,Saint Vincent & Grenadines,1995,GDP in current prices (millions of US dollars),312.1939
+1314,670,Saint Vincent & Grenadines,2005,GDP in current prices (millions of US dollars),550.7556
+1315,670,Saint Vincent & Grenadines,2010,GDP in current prices (millions of US dollars),681.2259
+1316,670,Saint Vincent & Grenadines,2015,GDP in current prices (millions of US dollars),755.4
+1317,670,Saint Vincent & Grenadines,2017,GDP in current prices (millions of US dollars),792.1778
+1318,670,Saint Vincent & Grenadines,2018,GDP in current prices (millions of US dollars),811.3
+1319,882,Samoa,1985,GDP in current prices (millions of US dollars),87.5987
+1320,882,Samoa,1995,GDP in current prices (millions of US dollars),201.5087
+1321,882,Samoa,2005,GDP in current prices (millions of US dollars),446.7124
+1322,882,Samoa,2010,GDP in current prices (millions of US dollars),692.1286
+1323,882,Samoa,2015,GDP in current prices (millions of US dollars),786.8854
+1324,882,Samoa,2017,GDP in current prices (millions of US dollars),824.5326
+1325,882,Samoa,2018,GDP in current prices (millions of US dollars),833.4647
+1326,674,San Marino,1985,GDP in current prices (millions of US dollars),319.8409
+1327,674,San Marino,1995,GDP in current prices (millions of US dollars),1019.7399
+1328,674,San Marino,2005,GDP in current prices (millions of US dollars),2027.4288
+1329,674,San Marino,2010,GDP in current prices (millions of US dollars),2139.3428
+1330,674,San Marino,2015,GDP in current prices (millions of US dollars),1418.8297
+1331,674,San Marino,2017,GDP in current prices (millions of US dollars),1528.6212
+1332,674,San Marino,2018,GDP in current prices (millions of US dollars),1637.6506
+1333,678,Sao Tome and Principe,1985,GDP in current prices (millions of US dollars),78.68
+1334,678,Sao Tome and Principe,1995,GDP in current prices (millions of US dollars),98.6152
+1335,678,Sao Tome and Principe,2005,GDP in current prices (millions of US dollars),126.1938
+1336,678,Sao Tome and Principe,2010,GDP in current prices (millions of US dollars),197.454
+1337,678,Sao Tome and Principe,2015,GDP in current prices (millions of US dollars),308.1105
+1338,678,Sao Tome and Principe,2017,GDP in current prices (millions of US dollars),365.493
+1339,678,Sao Tome and Principe,2018,GDP in current prices (millions of US dollars),411.1068
+1340,682,Saudi Arabia,1985,GDP in current prices (millions of US dollars),103893.9502
+1341,682,Saudi Arabia,1995,GDP in current prices (millions of US dollars),143152.0
+1342,682,Saudi Arabia,2005,GDP in current prices (millions of US dollars),328461.1605
+1343,682,Saudi Arabia,2010,GDP in current prices (millions of US dollars),528207.3326
+1344,682,Saudi Arabia,2015,GDP in current prices (millions of US dollars),654269.9029
+1345,682,Saudi Arabia,2017,GDP in current prices (millions of US dollars),688586.2443
+1346,682,Saudi Arabia,2018,GDP in current prices (millions of US dollars),782483.4935
+1347,686,Senegal,1985,GDP in current prices (millions of US dollars),3632.0305
+1348,686,Senegal,1995,GDP in current prices (millions of US dollars),6305.5069
+1349,686,Senegal,2005,GDP in current prices (millions of US dollars),11267.0944
+1350,686,Senegal,2010,GDP in current prices (millions of US dollars),16724.6139
+1351,686,Senegal,2015,GDP in current prices (millions of US dollars),17761.3182
+1352,686,Senegal,2017,GDP in current prices (millions of US dollars),20939.9667
+1353,686,Senegal,2018,GDP in current prices (millions of US dollars),23808.7755
+1354,688,Serbia,1995,GDP in current prices (millions of US dollars),21821.9405
+1355,688,Serbia,2005,GDP in current prices (millions of US dollars),26251.9866
+1356,688,Serbia,2010,GDP in current prices (millions of US dollars),39460.3382
+1357,688,Serbia,2015,GDP in current prices (millions of US dollars),37160.3243
+1358,688,Serbia,2017,GDP in current prices (millions of US dollars),44120.4449
+1359,688,Serbia,2018,GDP in current prices (millions of US dollars),50597.3018
+1360,690,Seychelles,1985,GDP in current prices (millions of US dollars),204.084
+1361,690,Seychelles,1995,GDP in current prices (millions of US dollars),613.9989
+1362,690,Seychelles,2005,GDP in current prices (millions of US dollars),919.1029
+1363,690,Seychelles,2010,GDP in current prices (millions of US dollars),969.9645
+1364,690,Seychelles,2015,GDP in current prices (millions of US dollars),1377.4924
+1365,690,Seychelles,2017,GDP in current prices (millions of US dollars),1503.1971
+1366,690,Seychelles,2018,GDP in current prices (millions of US dollars),1590.2243
+1367,694,Sierra Leone,1985,GDP in current prices (millions of US dollars),1376.0816
+1368,694,Sierra Leone,1995,GDP in current prices (millions of US dollars),1178.5618
+1369,694,Sierra Leone,2005,GDP in current prices (millions of US dollars),1650.4944
+1370,694,Sierra Leone,2010,GDP in current prices (millions of US dollars),2578.0263
+1371,694,Sierra Leone,2015,GDP in current prices (millions of US dollars),4248.108
+1372,694,Sierra Leone,2017,GDP in current prices (millions of US dollars),3739.0512
+1373,694,Sierra Leone,2018,GDP in current prices (millions of US dollars),4101.3254
+1374,702,Singapore,1985,GDP in current prices (millions of US dollars),18555.0531
+1375,702,Singapore,1995,GDP in current prices (millions of US dollars),87891.5601
+1376,702,Singapore,2005,GDP in current prices (millions of US dollars),127417.8794
+1377,702,Singapore,2010,GDP in current prices (millions of US dollars),236420.3372
+1378,702,Singapore,2015,GDP in current prices (millions of US dollars),306254.4688
+1379,702,Singapore,2017,GDP in current prices (millions of US dollars),336678.8928
+1380,702,Singapore,2018,GDP in current prices (millions of US dollars),361115.4015
+1381,534,Sint Maarten (Dutch part),2005,GDP in current prices (millions of US dollars),707.9548
+1382,534,Sint Maarten (Dutch part),2010,GDP in current prices (millions of US dollars),896.4921
+1383,534,Sint Maarten (Dutch part),2015,GDP in current prices (millions of US dollars),1066.4246
+1384,534,Sint Maarten (Dutch part),2017,GDP in current prices (millions of US dollars),1043.0
+1385,534,Sint Maarten (Dutch part),2018,GDP in current prices (millions of US dollars),980.0
+1386,703,Slovakia,1995,GDP in current prices (millions of US dollars),20042.195
+1387,703,Slovakia,2005,GDP in current prices (millions of US dollars),49033.4275
+1388,703,Slovakia,2010,GDP in current prices (millions of US dollars),90183.9868
+1389,703,Slovakia,2015,GDP in current prices (millions of US dollars),88457.1677
+1390,703,Slovakia,2017,GDP in current prices (millions of US dollars),95477.2696
+1391,703,Slovakia,2018,GDP in current prices (millions of US dollars),105956.3735
+1392,705,Slovenia,1995,GDP in current prices (millions of US dollars),21353.5709
+1393,705,Slovenia,2005,GDP in current prices (millions of US dollars),36204.3401
+1394,705,Slovenia,2010,GDP in current prices (millions of US dollars),48161.2509
+1395,705,Slovenia,2015,GDP in current prices (millions of US dollars),43090.1731
+1396,705,Slovenia,2017,GDP in current prices (millions of US dollars),48561.6724
+1397,705,Slovenia,2018,GDP in current prices (millions of US dollars),54034.3585
+1398,90,Solomon Islands,1985,GDP in current prices (millions of US dollars),159.9847
+1399,90,Solomon Islands,1995,GDP in current prices (millions of US dollars),364.6613
+1400,90,Solomon Islands,2005,GDP in current prices (millions of US dollars),429.476
+1401,90,Solomon Islands,2010,GDP in current prices (millions of US dollars),719.6229
+1402,90,Solomon Islands,2015,GDP in current prices (millions of US dollars),1059.145
+1403,90,Solomon Islands,2017,GDP in current prices (millions of US dollars),1198.9386
+1404,90,Solomon Islands,2018,GDP in current prices (millions of US dollars),1271.0458
+1405,706,Somalia,1985,GDP in current prices (millions of US dollars),809.6476
+1406,706,Somalia,1995,GDP in current prices (millions of US dollars),1122.2428
+1407,706,Somalia,2005,GDP in current prices (millions of US dollars),2315.5479
+1408,706,Somalia,2010,GDP in current prices (millions of US dollars),1092.7844
+1409,706,Somalia,2015,GDP in current prices (millions of US dollars),1454.7792
+1410,706,Somalia,2017,GDP in current prices (millions of US dollars),1497.3003
+1411,706,Somalia,2018,GDP in current prices (millions of US dollars),1494.4655
+1412,710,South Africa,1985,GDP in current prices (millions of US dollars),59647.6838
+1413,710,South Africa,1995,GDP in current prices (millions of US dollars),155460.928
+1414,710,South Africa,2005,GDP in current prices (millions of US dollars),257771.5624
+1415,710,South Africa,2010,GDP in current prices (millions of US dollars),375348.2704
+1416,710,South Africa,2015,GDP in current prices (millions of US dollars),317415.6234
+1417,710,South Africa,2017,GDP in current prices (millions of US dollars),349006.695
+1418,710,South Africa,2018,GDP in current prices (millions of US dollars),368093.9324
+1419,728,South Sudan,2010,GDP in current prices (millions of US dollars),14986.3774
+1420,728,South Sudan,2015,GDP in current prices (millions of US dollars),13215.9907
+1421,728,South Sudan,2017,GDP in current prices (millions of US dollars),7620.9631
+1422,728,South Sudan,2018,GDP in current prices (millions of US dollars),8206.888
+1423,724,Spain,1985,GDP in current prices (millions of US dollars),180796.0251
+1424,724,Spain,1995,GDP in current prices (millions of US dollars),614612.3152
+1425,724,Spain,2005,GDP in current prices (millions of US dollars),1153256.977
+1426,724,Spain,2010,GDP in current prices (millions of US dollars),1420722.034
+1427,724,Spain,2015,GDP in current prices (millions of US dollars),1195119.27
+1428,724,Spain,2017,GDP in current prices (millions of US dollars),1312551.706
+1429,724,Spain,2018,GDP in current prices (millions of US dollars),1419735.245
+1430,144,Sri Lanka,1985,GDP in current prices (millions of US dollars),6872.6698
+1431,144,Sri Lanka,1995,GDP in current prices (millions of US dollars),15293.0424
+1432,144,Sri Lanka,2005,GDP in current prices (millions of US dollars),27931.9719
+1433,144,Sri Lanka,2010,GDP in current prices (millions of US dollars),56725.7549
+1434,144,Sri Lanka,2015,GDP in current prices (millions of US dollars),80604.0766
+1435,144,Sri Lanka,2017,GDP in current prices (millions of US dollars),88019.6959
+1436,144,Sri Lanka,2018,GDP in current prices (millions of US dollars),88941.8863
+1437,275,State of Palestine,1985,GDP in current prices (millions of US dollars),1004.703
+1438,275,State of Palestine,1995,GDP in current prices (millions of US dollars),3490.4963
+1439,275,State of Palestine,2005,GDP in current prices (millions of US dollars),5125.7
+1440,275,State of Palestine,2010,GDP in current prices (millions of US dollars),9681.5
+1441,275,State of Palestine,2015,GDP in current prices (millions of US dollars),13972.4
+1442,275,State of Palestine,2017,GDP in current prices (millions of US dollars),16127.6
+1443,275,State of Palestine,2018,GDP in current prices (millions of US dollars),16276.6
+1444,729,Sudan,2010,GDP in current prices (millions of US dollars),54678.1655
+1445,729,Sudan,2015,GDP in current prices (millions of US dollars),83933.5287
+1446,729,Sudan,2017,GDP in current prices (millions of US dollars),124021.5999
+1447,729,Sudan,2018,GDP in current prices (millions of US dollars),50514.6739
+1448,736,Sudan [former],1985,GDP in current prices (millions of US dollars),6623.7732
+1449,736,Sudan [former],1995,GDP in current prices (millions of US dollars),12847.1873
+1450,736,Sudan [former],2005,GDP in current prices (millions of US dollars),35182.655
+1451,736,Sudan [former],2010,GDP in current prices (millions of US dollars),69664.5429
+1452,740,Suriname,1985,GDP in current prices (millions of US dollars),1196.437
+1453,740,Suriname,1995,GDP in current prices (millions of US dollars),844.2233
+1454,740,Suriname,2005,GDP in current prices (millions of US dollars),2193.0492
+1455,740,Suriname,2010,GDP in current prices (millions of US dollars),4368.3774
+1456,740,Suriname,2015,GDP in current prices (millions of US dollars),4787.4676
+1457,740,Suriname,2017,GDP in current prices (millions of US dollars),3210.02
+1458,740,Suriname,2018,GDP in current prices (millions of US dollars),3458.0818
+1459,752,Sweden,1985,GDP in current prices (millions of US dollars),113188.8063
+1460,752,Sweden,1995,GDP in current prices (millions of US dollars),265393.9136
+1461,752,Sweden,2005,GDP in current prices (millions of US dollars),389753.0539
+1462,752,Sweden,2010,GDP in current prices (millions of US dollars),495328.6201
+1463,752,Sweden,2015,GDP in current prices (millions of US dollars),503650.6419
+1464,752,Sweden,2017,GDP in current prices (millions of US dollars),540545.2364
+1465,752,Sweden,2018,GDP in current prices (millions of US dollars),556086.4889
+1466,756,Switzerland,1985,GDP in current prices (millions of US dollars),107765.0157
+1467,756,Switzerland,1995,GDP in current prices (millions of US dollars),342625.941
+1468,756,Switzerland,2005,GDP in current prices (millions of US dollars),408697.0125
+1469,756,Switzerland,2010,GDP in current prices (millions of US dollars),583782.9779
+1470,756,Switzerland,2015,GDP in current prices (millions of US dollars),679832.2917
+1471,756,Switzerland,2017,GDP in current prices (millions of US dollars),679950.482
+1472,756,Switzerland,2018,GDP in current prices (millions of US dollars),705140.62
+1473,760,Syrian Arab Republic,1985,GDP in current prices (millions of US dollars),10044.3555
+1474,760,Syrian Arab Republic,1995,GDP in current prices (millions of US dollars),13538.8863
+1475,760,Syrian Arab Republic,2005,GDP in current prices (millions of US dollars),28396.9965
+1476,760,Syrian Arab Republic,2010,GDP in current prices (millions of US dollars),60465.1121
+1477,760,Syrian Arab Republic,2015,GDP in current prices (millions of US dollars),19090.1021
+1478,760,Syrian Arab Republic,2017,GDP in current prices (millions of US dollars),13182.0926
+1479,760,Syrian Arab Republic,2018,GDP in current prices (millions of US dollars),16628.2144
+1480,762,Tajikistan,1995,GDP in current prices (millions of US dollars),1218.1795
+1481,762,Tajikistan,2005,GDP in current prices (millions of US dollars),2312.3202
+1482,762,Tajikistan,2010,GDP in current prices (millions of US dollars),5642.1759
+1483,762,Tajikistan,2015,GDP in current prices (millions of US dollars),7854.5812
+1484,762,Tajikistan,2017,GDP in current prices (millions of US dollars),7157.8303
+1485,762,Tajikistan,2018,GDP in current prices (millions of US dollars),7522.9341
+1486,764,Thailand,1985,GDP in current prices (millions of US dollars),40313.01
+1487,764,Thailand,1995,GDP in current prices (millions of US dollars),169278.9186
+1488,764,Thailand,2005,GDP in current prices (millions of US dollars),189318.4572
+1489,764,Thailand,2010,GDP in current prices (millions of US dollars),341104.6716
+1490,764,Thailand,2015,GDP in current prices (millions of US dollars),401295.7458
+1491,764,Thailand,2017,GDP in current prices (millions of US dollars),455275.3395
+1492,764,Thailand,2018,GDP in current prices (millions of US dollars),504992.3554
+1493,626,Timor-Leste,1995,GDP in current prices (millions of US dollars),438.1167
+1494,626,Timor-Leste,2005,GDP in current prices (millions of US dollars),1813.7081
+1495,626,Timor-Leste,2010,GDP in current prices (millions of US dollars),3998.9613
+1496,626,Timor-Leste,2015,GDP in current prices (millions of US dollars),3092.6248
+1497,626,Timor-Leste,2017,GDP in current prices (millions of US dollars),2487.2694
+1498,626,Timor-Leste,2018,GDP in current prices (millions of US dollars),2581.0
+1499,768,Togo,1985,GDP in current prices (millions of US dollars),859.8899
+1500,768,Togo,1995,GDP in current prices (millions of US dollars),1662.9022
+1501,768,Togo,2005,GDP in current prices (millions of US dollars),2280.5756
+1502,768,Togo,2010,GDP in current prices (millions of US dollars),3426.0221
+1503,768,Togo,2015,GDP in current prices (millions of US dollars),4177.7029
+1504,768,Togo,2017,GDP in current prices (millions of US dollars),4631.64
+1505,768,Togo,2018,GDP in current prices (millions of US dollars),5165.4541
+1506,776,Tonga,1985,GDP in current prices (millions of US dollars),73.1731
+1507,776,Tonga,1995,GDP in current prices (millions of US dollars),203.2442
+1508,776,Tonga,2005,GDP in current prices (millions of US dollars),261.5494
+1509,776,Tonga,2010,GDP in current prices (millions of US dollars),373.8744
+1510,776,Tonga,2015,GDP in current prices (millions of US dollars),400.4372
+1511,776,Tonga,2017,GDP in current prices (millions of US dollars),492.4068
+1512,776,Tonga,2018,GDP in current prices (millions of US dollars),504.2012
+1513,780,Trinidad and Tobago,1985,GDP in current prices (millions of US dollars),7395.7428
+1514,780,Trinidad and Tobago,1995,GDP in current prices (millions of US dollars),5343.5245
+1515,780,Trinidad and Tobago,2005,GDP in current prices (millions of US dollars),16025.3465
+1516,780,Trinidad and Tobago,2010,GDP in current prices (millions of US dollars),22182.4021
+1517,780,Trinidad and Tobago,2015,GDP in current prices (millions of US dollars),25062.7335
+1518,780,Trinidad and Tobago,2017,GDP in current prices (millions of US dollars),22474.742
+1519,780,Trinidad and Tobago,2018,GDP in current prices (millions of US dollars),23808.4829
+1520,788,Tunisia,1985,GDP in current prices (millions of US dollars),9233.652
+1521,788,Tunisia,1995,GDP in current prices (millions of US dollars),19795.2756
+1522,788,Tunisia,2005,GDP in current prices (millions of US dollars),32272.1784
+1523,788,Tunisia,2010,GDP in current prices (millions of US dollars),44051.1388
+1524,788,Tunisia,2015,GDP in current prices (millions of US dollars),43172.9792
+1525,788,Tunisia,2017,GDP in current prices (millions of US dollars),39813.0439
+1526,788,Tunisia,2018,GDP in current prices (millions of US dollars),39895.0976
+1527,792,Turkey,1985,GDP in current prices (millions of US dollars),92554.3481
+1528,792,Turkey,1995,GDP in current prices (millions of US dollars),233085.1504
+1529,792,Turkey,2005,GDP in current prices (millions of US dollars),501422.6056
+1530,792,Turkey,2010,GDP in current prices (millions of US dollars),771876.7912
+1531,792,Turkey,2015,GDP in current prices (millions of US dollars),859794.1771
+1532,792,Turkey,2017,GDP in current prices (millions of US dollars),852669.1505
+1533,792,Turkey,2018,GDP in current prices (millions of US dollars),771355.0996
+1534,795,Turkmenistan,1995,GDP in current prices (millions of US dollars),2190.0237
+1535,795,Turkmenistan,2005,GDP in current prices (millions of US dollars),14181.321
+1536,795,Turkmenistan,2010,GDP in current prices (millions of US dollars),22583.1579
+1537,795,Turkmenistan,2015,GDP in current prices (millions of US dollars),36051.6021
+1538,795,Turkmenistan,2017,GDP in current prices (millions of US dollars),37915.1755
+1539,795,Turkmenistan,2018,GDP in current prices (millions of US dollars),40749.2614
+1540,796,Turks and Caicos Islands,1985,GDP in current prices (millions of US dollars),58.3838
+1541,796,Turks and Caicos Islands,1995,GDP in current prices (millions of US dollars),190.5034
+1542,796,Turks and Caicos Islands,2005,GDP in current prices (millions of US dollars),578.6458
+1543,796,Turks and Caicos Islands,2010,GDP in current prices (millions of US dollars),686.7878
+1544,796,Turks and Caicos Islands,2015,GDP in current prices (millions of US dollars),893.502
+1545,796,Turks and Caicos Islands,2017,GDP in current prices (millions of US dollars),962.5263
+1546,796,Turks and Caicos Islands,2018,GDP in current prices (millions of US dollars),1022.3125
+1547,798,Tuvalu,1985,GDP in current prices (millions of US dollars),3.5156
+1548,798,Tuvalu,1995,GDP in current prices (millions of US dollars),11.7625
+1549,798,Tuvalu,2005,GDP in current prices (millions of US dollars),21.6793
+1550,798,Tuvalu,2010,GDP in current prices (millions of US dollars),31.3957
+1551,798,Tuvalu,2015,GDP in current prices (millions of US dollars),35.0382
+1552,798,Tuvalu,2017,GDP in current prices (millions of US dollars),43.9125
+1553,798,Tuvalu,2018,GDP in current prices (millions of US dollars),46.0391
+1554,800,Uganda,1985,GDP in current prices (millions of US dollars),4743.2475
+1555,800,Uganda,1995,GDP in current prices (millions of US dollars),7148.4252
+1556,800,Uganda,2005,GDP in current prices (millions of US dollars),11158.1329
+1557,800,Uganda,2010,GDP in current prices (millions of US dollars),19683.1405
+1558,800,Uganda,2015,GDP in current prices (millions of US dollars),25097.8962
+1559,800,Uganda,2017,GDP in current prices (millions of US dollars),27208.0827
+1560,800,Uganda,2018,GDP in current prices (millions of US dollars),30098.1033
+1561,804,Ukraine,1995,GDP in current prices (millions of US dollars),50375.8581
+1562,804,Ukraine,2005,GDP in current prices (millions of US dollars),89238.8651
+1563,804,Ukraine,2010,GDP in current prices (millions of US dollars),136012.4803
+1564,804,Ukraine,2015,GDP in current prices (millions of US dollars),91030.9688
+1565,804,Ukraine,2017,GDP in current prices (millions of US dollars),112190.3286
+1566,804,Ukraine,2018,GDP in current prices (millions of US dollars),130832.4113
+1567,784,United Arab Emirates,1985,GDP in current prices (millions of US dollars),41134.2535
+1568,784,United Arab Emirates,1995,GDP in current prices (millions of US dollars),66602.7654
+1569,784,United Arab Emirates,2005,GDP in current prices (millions of US dollars),182977.7083
+1570,784,United Arab Emirates,2010,GDP in current prices (millions of US dollars),289787.4527
+1571,784,United Arab Emirates,2015,GDP in current prices (millions of US dollars),358134.9444
+1572,784,United Arab Emirates,2017,GDP in current prices (millions of US dollars),377701.0602
+1573,784,United Arab Emirates,2018,GDP in current prices (millions of US dollars),414178.9426
+1574,826,United Kingdom,1985,GDP in current prices (millions of US dollars),489256.2812
+1575,826,United Kingdom,1995,GDP in current prices (millions of US dollars),1341651.841
+1576,826,United Kingdom,2005,GDP in current prices (millions of US dollars),2538687.693
+1577,826,United Kingdom,2010,GDP in current prices (millions of US dollars),2475244.321
+1578,826,United Kingdom,2015,GDP in current prices (millions of US dollars),2928591.002
+1579,826,United Kingdom,2017,GDP in current prices (millions of US dollars),2666229.18
+1580,826,United Kingdom,2018,GDP in current prices (millions of US dollars),2855296.732
+1581,834,United Rep. of Tanzania,1985,GDP in current prices (millions of US dollars),11074074.0
+1582,834,United Rep. of Tanzania,1995,GDP in current prices (millions of US dollars),7198.265
+1583,834,United Rep. of Tanzania,2005,GDP in current prices (millions of US dollars),17173.71
+1584,834,United Rep. of Tanzania,2010,GDP in current prices (millions of US dollars),31553.2431
+1585,834,United Rep. of Tanzania,2015,GDP in current prices (millions of US dollars),47378.5998
+1586,834,United Rep. of Tanzania,2017,GDP in current prices (millions of US dollars),53275.9459
+1587,834,United Rep. of Tanzania,2018,GDP in current prices (millions of US dollars),57145.269
+1588,840,United States of America,1985,GDP in current prices (millions of US dollars),4338979.0
+1589,840,United States of America,1995,GDP in current prices (millions of US dollars),7639749.0
+1590,840,United States of America,2005,GDP in current prices (millions of US dollars),13036637.0
+1591,840,United States of America,2010,GDP in current prices (millions of US dollars),14992052.0
+1592,840,United States of America,2015,GDP in current prices (millions of US dollars),18224780.0
+1593,840,United States of America,2017,GDP in current prices (millions of US dollars),19519424.0
+1594,840,United States of America,2018,GDP in current prices (millions of US dollars),20580223.0
+1595,858,Uruguay,1985,GDP in current prices (millions of US dollars),5225.6645
+1596,858,Uruguay,1995,GDP in current prices (millions of US dollars),21312.1747
+1597,858,Uruguay,2005,GDP in current prices (millions of US dollars),17362.8394
+1598,858,Uruguay,2010,GDP in current prices (millions of US dollars),40284.5567
+1599,858,Uruguay,2015,GDP in current prices (millions of US dollars),53274.3611
+1600,858,Uruguay,2017,GDP in current prices (millions of US dollars),59530.1014
+1601,858,Uruguay,2018,GDP in current prices (millions of US dollars),59596.9603
+1602,860,Uzbekistan,1995,GDP in current prices (millions of US dollars),16177.1504
+1603,860,Uzbekistan,2005,GDP in current prices (millions of US dollars),17085.0106
+1604,860,Uzbekistan,2010,GDP in current prices (millions of US dollars),46909.0506
+1605,860,Uzbekistan,2015,GDP in current prices (millions of US dollars),81847.4098
+1606,860,Uzbekistan,2017,GDP in current prices (millions of US dollars),59159.9487
+1607,860,Uzbekistan,2018,GDP in current prices (millions of US dollars),50499.9201
+1608,548,Vanuatu,1985,GDP in current prices (millions of US dollars),132.5677
+1609,548,Vanuatu,1995,GDP in current prices (millions of US dollars),272.6333
+1610,548,Vanuatu,2005,GDP in current prices (millions of US dollars),394.9624
+1611,548,Vanuatu,2010,GDP in current prices (millions of US dollars),700.804
+1612,548,Vanuatu,2015,GDP in current prices (millions of US dollars),759.6893
+1613,548,Vanuatu,2017,GDP in current prices (millions of US dollars),880.047
+1614,548,Vanuatu,2018,GDP in current prices (millions of US dollars),888.9322
+1615,862,Venezuela (Boliv. Rep. of),1985,GDP in current prices (millions of US dollars),59963.3123
+1616,862,Venezuela (Boliv. Rep. of),1995,GDP in current prices (millions of US dollars),74888.9708
+1617,862,Venezuela (Boliv. Rep. of),2005,GDP in current prices (millions of US dollars),145513.5782
+1618,862,Venezuela (Boliv. Rep. of),2010,GDP in current prices (millions of US dollars),393805.6726
+1619,862,Venezuela (Boliv. Rep. of),2015,GDP in current prices (millions of US dollars),344416.5266
+1620,862,Venezuela (Boliv. Rep. of),2017,GDP in current prices (millions of US dollars),248029.4366
+1621,862,Venezuela (Boliv. Rep. of),2018,GDP in current prices (millions of US dollars),208338.4752
+1622,704,Viet Nam,1985,GDP in current prices (millions of US dollars),4798.2845
+1623,704,Viet Nam,1995,GDP in current prices (millions of US dollars),20736.258
+1624,704,Viet Nam,2005,GDP in current prices (millions of US dollars),57633.2557
+1625,704,Viet Nam,2010,GDP in current prices (millions of US dollars),115931.7499
+1626,704,Viet Nam,2015,GDP in current prices (millions of US dollars),193241.1229
+1627,704,Viet Nam,2017,GDP in current prices (millions of US dollars),223779.8661
+1628,704,Viet Nam,2018,GDP in current prices (millions of US dollars),244901.1041
+1629,887,Yemen,1995,GDP in current prices (millions of US dollars),5934.6137
+1630,887,Yemen,2005,GDP in current prices (millions of US dollars),19041.163
+1631,887,Yemen,2010,GDP in current prices (millions of US dollars),30906.7518
+1632,887,Yemen,2015,GDP in current prices (millions of US dollars),26660.2963
+1633,887,Yemen,2017,GDP in current prices (millions of US dollars),24152.0388
+1634,887,Yemen,2018,GDP in current prices (millions of US dollars),26671.5795
+1635,894,Zambia,1985,GDP in current prices (millions of US dollars),2772.2559
+1636,894,Zambia,1995,GDP in current prices (millions of US dollars),3806.9981
+1637,894,Zambia,2005,GDP in current prices (millions of US dollars),8331.864
+1638,894,Zambia,2010,GDP in current prices (millions of US dollars),20265.4005
+1639,894,Zambia,2015,GDP in current prices (millions of US dollars),20858.9637
+1640,894,Zambia,2017,GDP in current prices (millions of US dollars),25868.1382
+1641,894,Zambia,2018,GDP in current prices (millions of US dollars),27282.8545
+1642,836,Zanzibar,1995,GDP in current prices (millions of US dollars),185.9017
+1643,836,Zanzibar,2005,GDP in current prices (millions of US dollars),437.5756
+1644,836,Zanzibar,2010,GDP in current prices (millions of US dollars),816.7336
+1645,836,Zanzibar,2015,GDP in current prices (millions of US dollars),1183.8459
+1646,836,Zanzibar,2017,GDP in current prices (millions of US dollars),1448.0961
+1647,836,Zanzibar,2018,GDP in current prices (millions of US dollars),1618.0013
+1648,716,Zimbabwe,1985,GDP in current prices (millions of US dollars),8719.6643
+1649,716,Zimbabwe,1995,GDP in current prices (millions of US dollars),11063.2836
+1650,716,Zimbabwe,2005,GDP in current prices (millions of US dollars),7189.092
+1651,716,Zimbabwe,2010,GDP in current prices (millions of US dollars),12041.6552
+1652,716,Zimbabwe,2015,GDP in current prices (millions of US dollars),19963.1206
+1653,716,Zimbabwe,2017,GDP in current prices (millions of US dollars),22040.9023
+1654,716,Zimbabwe,2018,GDP in current prices (millions of US dollars),24311.5606
