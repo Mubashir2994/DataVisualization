@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        svg{
+            width: 40vw;
+            height: 40vw;
+        }
+    </style>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="js/scatter_plot.js"></script>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+<div>
+    <svg viewBox="0 0 1000 1000" id="figure1">
+    </svg>
+    <svg viewBox="0 0 1000 1000" id="figure2">
+    </svg>
+    <svg viewBox="0 0 1000 1000" id="figure3">
+    </svg>
+    <svg viewBox="0 0 1000 1000" id="figure4">
+    </svg>
+</div>
+<script>
+
+    d3.tsv("./data/palmer_penguin_species.tsv")
+        .then(
+        function (data){
+            console.log(data)
+            let species = ['Adelie','Gentoo','Chinstrap']
+            let classic_colors = [ "#440154", "#21908dff", "#fde725ff"]
+            let color = d3.scaleOrdinal()
+                .domain(species)
+                .range(classic_colors)
+
+
+
+                    // function to format the data
+                    function DataFormatter(data, xAxis, yAxis, radius) {
+                        return d3.map(data, d => {
+                            return {
+                                x: d[xAxis],
+                                y: d[yAxis],
+                                r: d[radius],
+                                c: color(d.species)
+                            }
+                        })
+                    }
+
+            // let formatted_data1 = d3.map(data,function (d){
+            //     return {
+            //         x: d.culmen_length_mm,
+            //         y:d.body_mass_g,
+            //         //y: d.culmen_depth_mm,
+            //         r: d.flipper_length_mm,
+            //         c: color(d.species)
+            //     }
+            // })
+
+
+
+            // let formatted_data2 = d3.map(data,function (d){
+            //     return {
+            //         x:d.flipper_length_mm,
+            //        // x: d.culmen_length_mm,
+            //         y:d.body_mass_g,
+            //         //y: d.body_mass_g,
+            //         r: d.flipper_length_mm,
+            //         c: color(d.species)
+            //     }
+            // })
+
+            // let formatted_data3 = d3.map(data,function (d){
+            //     return {
+            //         x: d.culmen_length_mm,
+            //         y: d.culmen_depth_mm,
+            //         r: d.flipper_length_mm,
+            //         c: color(d.species)
+            //     }
+            // })
+
+            // let formatted_data4 = d3.map(data,function (d){
+            //     return {
+            //         x: d.flipper_length_mm,
+            //         y: d.culmen_depth_mm,
+            //         r: d.flipper_length_mm,
+            //         c: color(d.species)
+            //     }
+            // })
+
+
+            scatter_plot(
+                DataFormatter(data, 'culmen_length_mm', 'body_mass_g', "culmen_length_mm"),
+                        "#figure1",
+                        title = "Penguines _ 1",
+                        xLabel = "culmen_length_mm",
+                        yLabel = "body_mass_g",
+                        legend = species,
+                        legendcolors = classic_colors,
+                        margin = 200
+                    )
+                    
+                    
+            scatter_plot(
+                DataFormatter(data, 'flipper_length_mm', 'body_mass_g', "culmen_length_mm"),
+                        "#figure2",
+                        title = "Penguines _ 2",
+                        xLabel = "flipper_length_mm",
+                        yLabel = "body_mass_g",
+                        legend = species,
+                        legendcolors = classic_colors,
+                        margin = 200
+                    )
+
+            scatter_plot(
+                DataFormatter(data, 'culmen_length_mm', 'culmen_depth_mm', "culmen_length_mm"),
+                        "#figure3",
+                        title = "Penguines _ 3",
+                        xLabel = "culmen_length_mm",
+                        yLabel = "culmen_depth_mm",
+                        legend = species,
+                        legendcolors = classic_colors,
+                        margin = 200
+                    )
+
+
+            scatter_plot(
+                DataFormatter(data, 'flipper_length_mm', 'culmen_depth_mm', "culmen_length_mm"),
+                        "#figure4",
+                        title = "Penguines _ 4",
+                        xLabel = "flipper_length_mm",
+                        yLabel = "culmen_depth_mm",
+                        legend = species,
+                        legendcolors = classic_colors,
+                        margin = 200
+                    )
+
+            // scatter_plot(
+            //     Dataformatter(data, 'culmen_length_mm', 'culmen_depth_mm', "flipper_length_mm"),
+            //             "#figure3",
+            //             title = "Pinguines _ 3",
+            //             xLabel = "culmen_length_mm",
+            //             yLabel = "culmen_depth_mm",
+            //             legend = species,
+            //             legendcolors = classic_colors,
+            //             margin = 200
+            //         )
+
+            // scatter_plot(
+            //     Dataformatter(data, 'flipper_length_mm', 'culmen_depth_mm', "flipper_length_mm"),
+            //             "#figure4",
+            //             title = "Pinguines _ 4",
+            //             xLabel = "flipper_length_mm",
+            //             yLabel = "culmen_depth_mm",
+            //             legend = species,
+            //             legendcolors = classic_colors,
+            //             margin = 200
+            //         )
+        }
+    )
+</script>
+</body>
+</html>
