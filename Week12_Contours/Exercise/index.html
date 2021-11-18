@@ -64,12 +64,17 @@
             console.table(values_T)
             
 
+
+            
             let colors = d3.scaleLinear()
                 .domain(d3.range(min_Value,max_Value,
                     parseInt(Math.abs(max_Value-min_Value)/10)))
                 .range([
-                "#ffffff","#ffffff","#2d3f8c", "#3e5eba", "#2b83ba",])
+                "#ffffff","#ffffff","#182e6c","#143ca0","#256cbd","#f6e6a1", "#00a2bb","#a08616",  "#d00019",])
                 .interpolate(d3.interpolateHcl);
+
+
+
 
                 // let colors = d3.scaleLinear()
                 // .domain(d3.range(min_Value,max_Value,
