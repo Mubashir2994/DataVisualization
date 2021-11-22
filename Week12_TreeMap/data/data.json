@@ -1,0 +1,44 @@
+
+[{"name":"A","children":
+
+[
+
+
+
+   {
+      "name":"B",
+      "children":[
+         {
+            "name":"D",
+            "value":5
+         },
+         {
+            "name":"E",
+            "value":10
+         }
+      ]
+   },
+
+
+
+   {
+      "name":"C",
+      "children":[
+         {
+            "name":"F",
+            "value":20
+         },
+         {
+            "name":"G",
+            "value":40
+         },
+
+         {
+            "name":"H",
+            "value":60
+         }
+      ]
+   }
+]
+}]
+

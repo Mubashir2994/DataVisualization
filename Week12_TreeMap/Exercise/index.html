@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+   <head>
+       <meta charset="utf-8">
+       <script src="libs/echarts.min.js"></script>
+       <title>
+           US Population by County
+       </title>
+       <script src="../js/d3.js"></script>
+   </head>
+   <body style="height: 100%; margin: 0">
+       <div id="container" style="height: 100%"></div>
+       <script type="text/javascript">
+
+
+// let data1=[
+//         {"parentColumn": "",  "childColumn":"A"},
+//         {"parentColumn": "A", "childColumn":"B"},
+//         {"parentColumn": "A", "childColumn":"C"},
+//         {"parentColumn": "B", "childColumn":"D","val":30},
+//         {"parentColumn": "B", "childColumn":"E","val":50},
+//         {"parentColumn": "C", "childColumn":"F","val":20},
+//         {"parentColumn": "C", "childColumn":"G","val":40},
+//         {"parentColumn": "C", "childColumn":"H","val":60}
+//     ]
+
+//     // ******************************
+//     // Step 1 select the svg element
+//     let svg = d3.select('svg')
+
+//     // Step 2.1 stratify function converts data to parent child format
+//     let  stratify_function= d3.stratify()
+//         .id(function(d){return d["childColumn"]})
+//         .parentId(function(d){return d["parentColumn"]})
+//     //*****************************
+//     // Step 2.2 apply stratify function on data
+//     let data_formatted = stratify_function(data1)
+//     console.table("data formatted= ",data_formatted)
+//     //*****************************
+//     // Step 2.3 make hierarchy from data
+//     let data_hierarchy = d3.hierarchy(data_formatted)
+//     console.log("data hierarchy= ",data_formatted)
+//     // Step 2.4 make sums of valus to the hierarchy
+//    var root= data_hierarchy.sum(function(d) {
+//         return d.data.val;
+//     })
+
+
+// let dataxyz=d3.json("../data/data.json")
+
+// dataxyz.then(function (Data) {
+//         console.log("data",Data)
+//     })
+
+d3.json("../data/data.json").then(function (Data) {
+
+    let dom = document.getElementById("container"); // select container
+    let treeMap = echarts.init(dom); // initiate echarts object
+    treeMap.setOption({             // define type of visualization
+        series: [
+            {
+                type: 'treemap', // visualization type
+                data: Data,     // data
+                label: {        // show or hide labels
+                    show: true,
+                    formatter: '{b}'
+                },
+            }
+        ]
+    },true);
+});
+
+       </script>
+   </body>
+</html>
