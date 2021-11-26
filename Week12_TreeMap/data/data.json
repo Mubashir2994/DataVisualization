@@ -1,20 +1,16 @@
 
 [{"name":"A","children":
 
-[
-
-
-
-   {
+[ {
       "name":"B",
       "children":[
          {
             "name":"D",
-            "value":5
+            "value":30
          },
          {
             "name":"E",
-            "value":10
+            "value":50
          }
       ]
    },
