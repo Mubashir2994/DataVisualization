@@ -16,7 +16,9 @@ function bar_plot(Values, //column values to make histogram of
     // we will use this for making bins and placing them
     let xScale= d3.scaleLinear()
         .domain(d3.extent(Values))
-        .range([margin,width]);
+        .range([margin,width+125]);
+
+        xScale.clamp(true);
 
 
     // histogram function makes bins and the values for each bin
@@ -31,9 +33,11 @@ function bar_plot(Values, //column values to make histogram of
 
 
     // y will represent number of elements inside each bin!
-    let yScale= d3.scaleLinear()
+    let yScale= d3.scaleSqrt()
         .domain([0,d3.max(bins,function(d) { return d.length; })])
         .range([height,0]);
+
+        yScale.clamp(true);
 
 
 
